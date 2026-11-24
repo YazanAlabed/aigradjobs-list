@@ -2,8 +2,8 @@
 
 **Free, updated regularly from direct company career feeds.**
 
-**46 active listings · 46 first seen in the past 24h · 3 remote listings**
-Last refreshed: 2026-11-24 01:29 UTC.
+**46 active listings · 46 first seen in the past 24h · 0 remote listings**
+Last refreshed: 2026-11-24 02:35 UTC.
 
 [Browse all jobs](https://aigradjobs.com/) · [AI internships](https://aigradjobs.com/internships/) · [Remote AI jobs](https://aigradjobs.com/remote/) · [Hiring companies](https://aigradjobs.com/companies/) · [Free interview prep and portfolio ideas](https://aigradjobs.com/) · [Join free job alerts](https://aigradjobs.com/#job-alerts)
 
@@ -12,9 +12,9 @@ Last refreshed: 2026-11-24 01:29 UTC.
 | Company | Role | Location | Posted pay | Details & free prep |
 | :--- | :--- | :--- | :--- | :--- |
 | Modal | 🆕 Forward Deployed Engineer - ML (London) | London | Not disclosed | [View & apply](https://aigradjobs.com/jobs/modal-forward-deployed-engineer-ml-london-053ff040-770/) |
-| Openai | 🆕 Performance Modeling Engineer &#126;2 | San Francisco · Remote | $347K – $445K | [View & apply](https://aigradjobs.com/jobs/openai-performance-modeling-engineer-2-4f6be73e-9a1/) |
-| Openai | 🆕 Software Engineer, Applied Emerging Talent (2027) | San Francisco · Remote | $180K • Offers Equity | [View & apply](https://aigradjobs.com/jobs/openai-software-engineer-applied-emerging-talent-2027-55150071-fce/) |
-| Ramp | 🆕 Software Engineer, Backend, Credit | New York, NY (HQ) · Remote | $189K – $330K | [View & apply](https://aigradjobs.com/jobs/ramp-software-engineer-backend-credit-5598f7b8-4ae/) |
+| Openai | 🆕 Performance Modeling Engineer &#126;2 | San Francisco · Hybrid | $347K – $445K | [View & apply](https://aigradjobs.com/jobs/openai-performance-modeling-engineer-2-4f6be73e-9a1/) |
+| Openai | 🆕 Software Engineer, Applied Emerging Talent (2027) | San Francisco · Hybrid | $180K | [View & apply](https://aigradjobs.com/jobs/openai-software-engineer-applied-emerging-talent-2027-55150071-fce/) |
+| Ramp | 🆕 Software Engineer, Backend, Credit | New York, NY (HQ) · Hybrid | $189K – $330K | [View & apply](https://aigradjobs.com/jobs/ramp-software-engineer-backend-credit-5598f7b8-4ae/) |
 | Coinbase | 🆕 Software Engineer Intern | Hybrid - San Francisco, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/coinbase-software-engineer-intern-8168315/) |
 | Coinbase | 🆕 Credit Risk Intern | Hybrid - New York, NY | Not disclosed | [View & apply](https://aigradjobs.com/jobs/coinbase-credit-risk-intern-8175369/) |
 | Coinbase | 🆕 Employee and Workplace Experience Intern | Hybrid - New York, NY | Not disclosed | [View & apply](https://aigradjobs.com/jobs/coinbase-employee-and-workplace-experience-intern-8175429/) |
