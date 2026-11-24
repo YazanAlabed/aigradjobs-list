@@ -3,7 +3,7 @@
 **Free, updated regularly from direct company career feeds.**
 
 **109 active listings · 109 first seen in the past 24h · 8 remote listings**
-Last refreshed: 2026-11-24 04:46 UTC.
+Last refreshed: 2026-11-24 04:56 UTC.
 
 [Browse all jobs](https://aigradjobs.com/) · [AI internships](https://aigradjobs.com/internships/) · [Remote AI jobs](https://aigradjobs.com/remote/) · [Hiring companies](https://aigradjobs.com/companies/) · [Free interview prep and portfolio ideas](https://aigradjobs.com/) · [Join free job alerts](https://aigradjobs.com/#job-alerts)
 
@@ -49,7 +49,7 @@ Last refreshed: 2026-11-24 04:46 UTC.
 | Veeamsoftware | 🆕 Customer Care AI Analyst Intern - Summer 2027 | Columbus, OH, USA | $20- $25 USD | [View & apply](https://aigradjobs.com/jobs/veeamsoftware-customer-care-ai-analyst-intern-summer-2027-4972324101/) |
 | Veeamsoftware | 🆕 AI/ML Intern Summer 2027 | San Jose, CA, USA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/veeamsoftware-ai-ml-intern-summer-2027-4971207101/) |
 | Veeamsoftware | 🆕 People &#38; Culture AI Transformation Intern- Summer 2027 | Remote, Georgia, USA | $20- $25 USD | [View & apply](https://aigradjobs.com/jobs/veeamsoftware-people-culture-ai-transformation-intern-summer-2027-4971202101/) |
-| Veeamsoftware | 🆕 AI &#38; Automation Engineering Intern - Summer 2027 | Remote, Georgia, USA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/veeamsoftware-ai-automation-engineering-intern-summer-2027-4955296101/) |
+| Veeamsoftware | 🆕 AI &#38; Automation Engineering Intern - Summer 2027 | Remote, Georgia, USA | $20 - $25 USD | [View & apply](https://aigradjobs.com/jobs/veeamsoftware-ai-automation-engineering-intern-summer-2027-4955296101/) |
 | Xai | 🆕 Summer 2027 Software Engineering Internship/Co-op | Palo Alto, CA | Software Engineering Intern/Freshman/Sophomore: $30 USD per hour | [View & apply](https://aigradjobs.com/jobs/xai-summer-2027-software-engineering-internship-co-op-5255111007/) |
 | Xai | 🆕 Spring 2027 Software Engineering Internship/Co-op | Palo Alto, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/xai-spring-2027-software-engineering-internship-co-op-5252108007/) |
 | Palantir | 🆕 Software Engineer, New Grad - Production Infrastructure | New York, NY · Hybrid | Not disclosed | [View & apply](https://aigradjobs.com/jobs/palantir-software-engineer-new-grad-production-infrastructure-e1a6c138-98b/) |
@@ -123,6 +123,7 @@ Last refreshed: 2026-11-24 04:46 UTC.
 
 ## About
 
-AIGradJobs curates early-career AI and machine learning opportunities from company ATS feeds, including Greenhouse, Lever and Ashby. Career resources are free. Star or watch this repository for updates.
+AIGradJobs curates early-career AI and machine learning opportunities from direct employer ATS feeds. Career resources are free. Star or watch this repository for updates.
 
 More jobs and free resources: [https://aigradjobs.com](https://aigradjobs.com).
+AI agent discovery: [llms.txt](https://aigradjobs.com/llms.txt) · [Public JSON](https://aigradjobs.com/api/jobs.json) · [MCP setup](https://aigradjobs.com/mcp-setup/).
