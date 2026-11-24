@@ -2,8 +2,8 @@
 
 **Free, updated regularly from direct company career feeds.**
 
-**128 active listings · 128 first seen in the past 24h · 10 remote listings**
-Last refreshed: 2026-11-24 18:27 UTC.
+**150 active listings · 150 first seen in the past 24h · 12 remote listings**
+Last refreshed: 2026-11-24 18:42 UTC.
 
 [Browse all jobs](https://aigradjobs.com/) · [AI internships](https://aigradjobs.com/internships/) · [Remote AI jobs](https://aigradjobs.com/remote/) · [Hiring companies](https://aigradjobs.com/companies/) · [Free interview prep and portfolio ideas](https://aigradjobs.com/) · [Join free job alerts](https://aigradjobs.com/#job-alerts)
 
@@ -11,7 +11,25 @@ Last refreshed: 2026-11-24 18:27 UTC.
 
 | Company | Role | Location | Posted pay | Details & free prep |
 | :--- | :--- | :--- | :--- | :--- |
-| Adobe | 🆕 2027 University Graduate - Data Scientist | San Jose, California, US | $90,000 - $164,250 annually | [View & apply](https://aigradjobs.com/jobs/adobe-2027-university-graduate-data-scientist-9a6209affd21/) |
+| Levelai | 🆕 AI Analyst | Noida | Not disclosed | [View & apply](https://aigradjobs.com/jobs/levelai-ai-analyst-c55479cf-bc3/) |
+| Friendliai | 🆕 Customer Success Engineer (contract based) | Seoul | Not disclosed | [View & apply](https://aigradjobs.com/jobs/friendliai-customer-success-engineer-contract-based-11f5ea91-977/) |
+| Rendezvousrobotics | 🆕 Flight Software Engineer (Early Career) | Golden, CO | $85,000 - $115,000 | [View & apply](https://aigradjobs.com/jobs/rendezvousrobotics-flight-software-engineer-early-career-4464270009/) |
+| Jazzx-Ai | 🆕 Associate – Mortgage AI | Los Altos | Not disclosed | [View & apply](https://aigradjobs.com/jobs/jazzx-ai-associate-mortgage-ai-5468268008/) |
+| Viz.Ai | 🆕 Clinical AI Specialist | Tel Aviv, Israel · Hybrid | Not disclosed | [View & apply](https://aigradjobs.com/jobs/viz-ai-clinical-ai-specialist-2be04f99-aa3/) |
+| Instalilyai | 🆕 Software Engineer I, Toronto Co-op | Toronto | $6,000 - 7,000 CAD per month | [View & apply](https://aigradjobs.com/jobs/instalilyai-software-engineer-i-toronto-co-op-4342089009/) |
+| Instalilyai | 🆕 Software Engineer I, General | New York, New York, United States, San Francisco, California, United States | $100,000 - $120,000 per year, commensurate with experience | [View & apply](https://aigradjobs.com/jobs/instalilyai-software-engineer-i-general-4271757009/) |
+| Instalilyai | 🆕 Software Engineer, General - London | London, United Kingdom | £54,000–£62,000 per year | [View & apply](https://aigradjobs.com/jobs/instalilyai-software-engineer-general-london-4264790009/) |
+| Humble-Robotics | 🆕 Mechanical Engineer | San Francisco | Not disclosed | [View & apply](https://aigradjobs.com/jobs/humble-robotics-mechanical-engineer-d5dd58ed-fdb/) |
+| Humble-Robotics | 🆕 Hardware Integration Engineer | San Francisco | Not disclosed | [View & apply](https://aigradjobs.com/jobs/humble-robotics-hardware-integration-engineer-beaebb31-e33/) |
+| Humble-Robotics | 🆕 Autonomy Engineer, Data | San Francisco | Not disclosed | [View & apply](https://aigradjobs.com/jobs/humble-robotics-autonomy-engineer-data-93ca2ae3-c54/) |
+| Humble-Robotics | 🆕 ML Software Engineer | San Francisco · remote | Not disclosed | [View & apply](https://aigradjobs.com/jobs/humble-robotics-ml-software-engineer-3aeb08a7-216/) |
+| Bluefishai | 🆕 Customer AI Analyst | New York, Hybrid | Not disclosed | [View & apply](https://aigradjobs.com/jobs/bluefishai-customer-ai-analyst-4743236008/) |
+| Havocai | 🆕 Field Software Engineer | Remote | $150K – $175K | [View & apply](https://aigradjobs.com/jobs/havocai-field-software-engineer-f7e2a1b3-899/) |
+| Canonical | 🆕 Junior Ubuntu Software Engineer | Home based - Worldwide | Not disclosed | [View & apply](https://aigradjobs.com/jobs/canonical-junior-ubuntu-software-engineer-6707669/) |
+| Canonical | 🆕 Graduate Talent Scientist | Home based - EMEA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/canonical-graduate-talent-scientist-6464146/) |
+| Canonical | 🆕 Junior Linux Kernel Engineer - Ubuntu | Home based - Worldwide | Not disclosed | [View & apply](https://aigradjobs.com/jobs/canonical-junior-linux-kernel-engineer-ubuntu-5370815/) |
+| Canonical | 🆕 Web Engineer - JS, TS, Flutter | Home based - Worldwide | 48,000 USD to 70,000 USD | [View & apply](https://aigradjobs.com/jobs/canonical-web-engineer-js-ts-flutter-5150422/) |
+| Adobe | 🆕 2027 University Graduate - Data Scientist | San Jose, California, US | $90,000 - $164,250 | [View & apply](https://aigradjobs.com/jobs/adobe-2027-university-graduate-data-scientist-9a6209affd21/) |
 | Latitude | 🆕 Embedded Software Engineer II - High Level OS | Pittsburgh, PA, Palo Alto, CA, Detroit, MI | $150,320 - $225,480 USD | [View & apply](https://aigradjobs.com/jobs/latitude-embedded-software-engineer-ii-high-level-os-8114552/) |
 | Indiciumai | 🆕 Associate Data Engineer | Lisbon | Not disclosed | [View & apply](https://aigradjobs.com/jobs/indiciumai-associate-data-engineer-4806290101/) |
 | Nimblerobotics | 🆕 Software Engineer, Nimble Brain | San Francisco, CA | $150,000 - $210,000/year | [View & apply](https://aigradjobs.com/jobs/nimblerobotics-software-engineer-nimble-brain-4472953009/) |
@@ -29,12 +47,15 @@ Last refreshed: 2026-11-24 18:27 UTC.
 | Pathrobotics | 🆕 Software Engineer, C++ | Columbus, Ohio | Not disclosed | [View & apply](https://aigradjobs.com/jobs/pathrobotics-software-engineer-c-8926017002/) |
 | Pathrobotics | 🆕 Software Engineer, Fleet Platform | Columbus, Ohio | Not disclosed | [View & apply](https://aigradjobs.com/jobs/pathrobotics-software-engineer-fleet-platform-8870735002/) |
 | Pathrobotics | 🆕 Data Engineer | Columbus, Ohio | Not disclosed | [View & apply](https://aigradjobs.com/jobs/pathrobotics-data-engineer-8868497002/) |
+| Pathrobotics | 🆕 Robotics Software Engineer, Motion Planning | Columbus, Ohio | Not disclosed | [View & apply](https://aigradjobs.com/jobs/pathrobotics-robotics-software-engineer-motion-planning-8627330002/) |
+| Cognite | 🆕 Data Scientist | Mexico City, Ciudad de México, Mexico; Monterrey, Nuevo León, Mexico; Tijuana, Baja California, Mexico | Not disclosed | [View & apply](https://aigradjobs.com/jobs/cognite-data-scientist-5032904101/) |
 | 1X | 🆕 Robotics Deployment Engineer | San Carlos, CA | $118K – $151K • Offers Equity | [View & apply](https://aigradjobs.com/jobs/1x-robotics-deployment-engineer-93ffa012-5a8/) |
 | 1X | 🆕 Firmware Engineer - Testing | San Carlos, CA | $150K – $190K | [View & apply](https://aigradjobs.com/jobs/1x-firmware-engineer-testing-4cb3ef10-875/) |
 | 1Password | 🆕 Developer, Device Trust Reliability | Remote (United States &#124; Canada) · Remote | $123,000 USD and $172,000 USD | [View & apply](https://aigradjobs.com/jobs/1password-developer-device-trust-reliability-443f9ef6-13a/) |
 | Agilerobotsse | 🆕 Supplier Quality Engineer (all genders) | Munich, Bavaria, Germany | Not disclosed | [View & apply](https://aigradjobs.com/jobs/agilerobotsse-supplier-quality-engineer-all-genders-5042330101/) |
 | Agilerobotsse | 🆕 Full-Stack Developer Intern (m/f/d) Robotics Data Collection | Munich, Bavaria, Germany | Not disclosed | [View & apply](https://aigradjobs.com/jobs/agilerobotsse-full-stack-developer-intern-m-f-d-robotics-data-collection-4986680101/) |
 | Agilerobotsse | 🆕 Robotics Test Automation Engineer (m/f/d) | Munich, Bavaria, Germany | Not disclosed | [View & apply](https://aigradjobs.com/jobs/agilerobotsse-robotics-test-automation-engineer-m-f-d-4964785101/) |
+| Cloudfactory | 🆕 Forward Deployed Engineer | Berlin, Berlin, Germany | Not disclosed | [View & apply](https://aigradjobs.com/jobs/cloudfactory-forward-deployed-engineer-F775A14D4B/) |
 | Neuralink | 🆕 Software Engineer Intern, Robotics | Austin, Texas, United States; South San Francisco, California, United States | Not disclosed | [View & apply](https://aigradjobs.com/jobs/neuralink-software-engineer-intern-robotics-5469305003/) |
 | Agilityrobotics | 🆕 Mechanical Engineer II | Hybrid- Fremont, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/agilityrobotics-mechanical-engineer-ii-6227252004/) |
 | Reliable-Robotics | 🆕 System Integration &#38; Test Intern (Summer 2027) | Mountain View, CA | $105K • 3k Housing Stipend For Qualified Applicants | [View & apply](https://aigradjobs.com/jobs/reliable-robotics-system-integration-test-intern-summer-2027-f4324206-46a/) |
@@ -53,6 +74,7 @@ Last refreshed: 2026-11-24 18:27 UTC.
 | Togetherai | 🆕 Sales Development Engineer | San Francisco | $90K-150K OTE + equity + benefits | [View & apply](https://aigradjobs.com/jobs/togetherai-sales-development-engineer-4967737007/) |
 | Towerresearchcapital | 🆕 Intern | Gift City | Not disclosed | [View & apply](https://aigradjobs.com/jobs/towerresearchcapital-intern-8184771/) |
 | Towerresearchcapital | 🆕 Développeur de logiciels C++ nouvellement diplômé / New Grad C++ Software Developer | Montreal | Not disclosed | [View & apply](https://aigradjobs.com/jobs/towerresearchcapital-d-veloppeur-de-logiciels-c-nouvellement-dipl-m-new-grad-c-so-8126667/) |
+| Towerresearchcapital | 🆕 Machine Learning Engineer | Hong Kong, Singapore, Shanghai | Not disclosed | [View & apply](https://aigradjobs.com/jobs/towerresearchcapital-machine-learning-engineer-7714667/) |
 | Towerresearchcapital | 🆕 Quantitative Developer | Gurgaon | Not disclosed | [View & apply](https://aigradjobs.com/jobs/towerresearchcapital-quantitative-developer-7102180/) |
 | Figureai | 🆕 Integration &#38; Test - Mechanical Engineering Intern &#91;Winter 2027&#93; | San Jose, CA | $40.00 to $45.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-integration-test-mechanical-engineering-intern-winter-2027-4726631006/) |
 | Figureai | 🆕 Developer Productivity Intern &#91;Winter 2027&#93; | San Jose, CA | $40.00 to $45.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-developer-productivity-intern-winter-2027-4724521006/) |
