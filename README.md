@@ -2,8 +2,8 @@
 
 **Free, updated regularly from direct company career feeds.**
 
-**239 active listings · 239 first seen in the past 24h · 20 remote listings**
-Last refreshed: 2026-11-24 21:32 UTC.
+**263 active listings · 263 first seen in the past 24h · 22 remote listings**
+Last refreshed: 2026-11-24 21:39 UTC.
 
 [Browse all jobs](https://aigradjobs.com/) · [AI internships](https://aigradjobs.com/internships/) · [Remote AI jobs](https://aigradjobs.com/remote/) · [Hiring companies](https://aigradjobs.com/companies/) · [Free interview prep and portfolio ideas](https://aigradjobs.com/) · [Join free job alerts](https://aigradjobs.com/#job-alerts)
 
@@ -11,8 +11,23 @@ Last refreshed: 2026-11-24 21:32 UTC.
 
 | Company | Role | Location | Posted pay | Details & free prep |
 | :--- | :--- | :--- | :--- | :--- |
+| Fiducial | 🆕 Internship - 3D Vision for Robotics | Delft · Hybrid | Not disclosed | [View & apply](https://aigradjobs.com/jobs/fiducial-internship-3d-vision-for-robotics-50c7e0fd-630/) |
+| Fiducial | 🆕 Internship - UAV Robotics/Mechatronics (Drone Prototyping, Integration &#38; Field Testing) | Delft · Hybrid | Not disclosed | [View & apply](https://aigradjobs.com/jobs/fiducial-internship-uav-robotics-mechatronics-drone-prototyping-integ-46daea96-33d/) |
+| Fortrobotics | 🆕 Embedded Test and Validation Engineer | Philadelphia, PA | $120,000–$150,000 | [View & apply](https://aigradjobs.com/jobs/fortrobotics-embedded-test-and-validation-engineer-4749921005/) |
+| Novita-Ai | 🆕 Forward Deployed Engineer Intern | San Mateo · Hybrid | Not disclosed | [View & apply](https://aigradjobs.com/jobs/novita-ai-forward-deployed-engineer-intern-bb0e8da0-e96/) |
+| Novita-Ai | 🆕 Forward Deployed Engineer New Grad | San Mateo | Not disclosed | [View & apply](https://aigradjobs.com/jobs/novita-ai-forward-deployed-engineer-new-grad-0d9d673e-075/) |
+| Novita-Ai | 🆕 Technical GTM Intern | San Mateo · Hybrid | Not disclosed | [View & apply](https://aigradjobs.com/jobs/novita-ai-technical-gtm-intern-04168d47-2d5/) |
+| Mai | 🆕 Software Engineer | Mountain View | $160K – $225K | [View & apply](https://aigradjobs.com/jobs/mai-software-engineer-3f7110eb-012/) |
+| Mai | 🆕 Machine Learning Engineer | Mountain View | $160K – $225K | [View & apply](https://aigradjobs.com/jobs/mai-machine-learning-engineer-3961159f-0c8/) |
+| Kos.Ai | 🆕 Software Engineer Intern | San Francisco | Not disclosed | [View & apply](https://aigradjobs.com/jobs/kos-ai-software-engineer-intern-efab6ffb-965/) |
+| Fellowai | 🆕 Software Engineer - New Grad (2026-2027) | Ottawa · Remote | Not disclosed | [View & apply](https://aigradjobs.com/jobs/fellowai-software-engineer-new-grad-2026-2027-f932dda0-8ad/) |
+| Endeavorai | 🆕 Forward Deployed Engineer, Early Career | Chicago | $120K – $140K • Offers Equity • 5% match on 401(k) | [View & apply](https://aigradjobs.com/jobs/endeavorai-forward-deployed-engineer-early-career-e397ddef-210/) |
+| Cosmic-Robotics | 🆕 Forward Deployed Engineer | Cosmic HQ | Not disclosed | [View & apply](https://aigradjobs.com/jobs/cosmic-robotics-forward-deployed-engineer-c7112880-fa0/) |
+| Bild-Ai | 🆕 AI/SWE Intern | San Francisco | $3K – $10K per month | [View & apply](https://aigradjobs.com/jobs/bild-ai-ai-swe-intern-b333f0f7-0ca/) |
+| Conductorai | 🆕 Software Engineer Intern | New York City · Hybrid | Not disclosed | [View & apply](https://aigradjobs.com/jobs/conductorai-software-engineer-intern-d6a1b110-10a/) |
 | Deepgram | 🆕 People AI Operations Specialist | USA - Remote | $110K – $150K | [View & apply](https://aigradjobs.com/jobs/deepgram-people-ai-operations-specialist-dbf72159-6a8/) |
-| Cursor | 🆕 GTM Applications Engineer | San Francisco, CA | $240,000 - $325,000 | [View & apply](https://aigradjobs.com/jobs/cursor-gtm-applications-engineer-cddb7c29-39e/) |
+| Deepgram | 🆕 Forward-Deployed Engineer (FDE), Strategic Accounts | San Francisco, CA | $155K – $193K | [View & apply](https://aigradjobs.com/jobs/deepgram-forward-deployed-engineer-fde-strategic-accounts-4bfadd29-fa5/) |
+| Cursor | 🆕 GTM Applications Engineer | San Francisco, CA | $240,000 - $325,000 USD | [View & apply](https://aigradjobs.com/jobs/cursor-gtm-applications-engineer-cddb7c29-39e/) |
 | Crusoe | 🆕 AI Applied Research PhD Intern, Summer 2027 | San Francisco, CA - US | Not disclosed | [View & apply](https://aigradjobs.com/jobs/crusoe-ai-applied-research-phd-intern-summer-2027-8d1d162e-7be/) |
 | Crusoe | 🆕 Mechanical Engineer I | Arvada, CO - US | up to $95,000 -$106,000 + Bonus | [View & apply](https://aigradjobs.com/jobs/crusoe-mechanical-engineer-i-11603bfb-6d3/) |
 | Kataai | 🆕 Technical Support Engineer (Freelance) | South Jakarta, DKI Jakarta, Indonesia · Remote | Not disclosed | [View & apply](https://aigradjobs.com/jobs/kataai-technical-support-engineer-freelance-744000119308/) |
@@ -25,18 +40,21 @@ Last refreshed: 2026-11-24 21:32 UTC.
 | Corvus-Robotics | 🆕 Quality &#38; Integration Engineer | Mountain View, CA | $100K – $140K | [View & apply](https://aigradjobs.com/jobs/corvus-robotics-quality-integration-engineer-a23176d1-255/) |
 | Centerforartificialintelligencesafetyinc | 🆕 Research Engineer Intern | San Francisco | $9,700 - $19,000 | [View & apply](https://aigradjobs.com/jobs/centerforartificialintelligencesafetyinc-research-engineer-intern-4308524009/) |
 | Commure | 🆕 Software Engineer (India) | Bengaluru, India · Remote | Not disclosed | [View & apply](https://aigradjobs.com/jobs/commure-software-engineer-india-b7f99d0b-e51/) |
-| Commure | 🆕 Software Engineer, Autonomous Revenue Operations | Mountain View, CA · Hybrid | $130K – $190K • Offers Equity | [View & apply](https://aigradjobs.com/jobs/commure-software-engineer-autonomous-revenue-operations-3e3934a8-ef1/) |
-| Commure | 🆕 Software Engineer, AI Integrations | Mountain View, CA · Hybrid | $130K – $190K • Offers Equity | [View & apply](https://aigradjobs.com/jobs/commure-software-engineer-ai-integrations-39e07152-a3d/) |
-| Commure | 🆕 Software Engineer, Claims &#38; AI Billing | Mountain View, CA · Hybrid | $130K – $190K • Offers Equity | [View & apply](https://aigradjobs.com/jobs/commure-software-engineer-claims-ai-billing-3380135f-ab2/) |
-| Commure | 🆕 Software Engineer, Scribe AI | Mountain View, CA | $130K – $180K • Offers Equity | [View & apply](https://aigradjobs.com/jobs/commure-software-engineer-scribe-ai-259988fe-038/) |
+| Commure | 🆕 Software Engineer, Autonomous Revenue Operations | Mountain View, CA · Hybrid | $130K – $190K | [View & apply](https://aigradjobs.com/jobs/commure-software-engineer-autonomous-revenue-operations-3e3934a8-ef1/) |
+| Commure | 🆕 Software Engineer, AI Integrations | Mountain View, CA · Hybrid | $130K – $190K | [View & apply](https://aigradjobs.com/jobs/commure-software-engineer-ai-integrations-39e07152-a3d/) |
+| Commure | 🆕 Software Engineer, Claims &#38; AI Billing | Mountain View, CA · Hybrid | $130K – $190K | [View & apply](https://aigradjobs.com/jobs/commure-software-engineer-claims-ai-billing-3380135f-ab2/) |
+| Commure | 🆕 Software Engineer, Scribe AI | Mountain View, CA | $130K – $180K | [View & apply](https://aigradjobs.com/jobs/commure-software-engineer-scribe-ai-259988fe-038/) |
 | Clera | 🆕 Founding Engineer (Full-Stack) | San Francisco | $175,000 – $200,000 USD annually | [View & apply](https://aigradjobs.com/jobs/clera-founding-engineer-full-stack-ff2226e8-25c/) |
-| Clera | 🆕 Founding Full-Stack Engineer | New York · Remote | Not disclosed | [View & apply](https://aigradjobs.com/jobs/clera-founding-full-stack-engineer-ea5b2346-51f/) |
-| Clera | 🆕 Founding AI Engineer | San Francisco | $120,000 – $180,000 per year | [View & apply](https://aigradjobs.com/jobs/clera-founding-ai-engineer-da862873-ba4/) |
+| Clera | 🆕 Robotics Data Researcher | Barcelona | Not disclosed | [View & apply](https://aigradjobs.com/jobs/clera-robotics-data-researcher-ef637845-228/) |
+| Clera | 🆕 Founding Full-Stack Engineer | New York · Remote | $120K – $150K | [View & apply](https://aigradjobs.com/jobs/clera-founding-full-stack-engineer-ea5b2346-51f/) |
+| Clera | 🆕 Founding AI Engineer | San Francisco | $120,000 – $180,000 per year, depending on experience | [View & apply](https://aigradjobs.com/jobs/clera-founding-ai-engineer-da862873-ba4/) |
+| Clera | 🆕 Founding Engineer - Full Stack | San Francisco | $150,000 – $250,000 USD annually | [View & apply](https://aigradjobs.com/jobs/clera-founding-engineer-full-stack-cea943d6-817/) |
 | Clera | 🆕 Robot Learning Engineer, Entry-Level | Munich | Not disclosed | [View & apply](https://aigradjobs.com/jobs/clera-robot-learning-engineer-entry-level-babe7410-c23/) |
+| Clera | 🆕 Founding Engineer: Agent Infrastructure | San Francisco | Not disclosed | [View & apply](https://aigradjobs.com/jobs/clera-founding-engineer-agent-infrastructure-9843b97e-dee/) |
 | Clera | 🆕 Research Engineer, Privacy and Anonymization | San Francisco | $130K – $225K | [View & apply](https://aigradjobs.com/jobs/clera-research-engineer-privacy-and-anonymization-60f23b98-6ec/) |
 | Clera | 🆕 Full-Stack Software Engineering Intern | New York · Remote | Pay starts at $50 per hour | [View & apply](https://aigradjobs.com/jobs/clera-full-stack-software-engineering-intern-42992916-9ca/) |
 | Clera | 🆕 Founding Engineer (Full-Stack/AI) | Munich | €60K – €90K | [View & apply](https://aigradjobs.com/jobs/clera-founding-engineer-full-stack-ai-4104adb8-aee/) |
-| Clera | 🆕 Founding AI Engineer | San Francisco | $120,000 – $180,000 per year | [View & apply](https://aigradjobs.com/jobs/clera-founding-ai-engineer-3dc0a0f6-6a5/) |
+| Clera | 🆕 Founding AI Engineer | San Francisco | $120,000 – $180,000 per year, depending on experience | [View & apply](https://aigradjobs.com/jobs/clera-founding-ai-engineer-3dc0a0f6-6a5/) |
 | Clera | 🆕 Founders Associate Intern | Berlin | €28.8K | [View & apply](https://aigradjobs.com/jobs/clera-founders-associate-intern-36e04471-4ee/) |
 | Clera | 🆕 Founding Engineer | San Francisco | $150,000 – $220,000 USD annually | [View & apply](https://aigradjobs.com/jobs/clera-founding-engineer-2d6220a9-5c2/) |
 | Clera | 🆕 Founding Engineer | San Francisco | $150,000 – $220,000 USD annually | [View & apply](https://aigradjobs.com/jobs/clera-founding-engineer-05ac6c51-579/) |
@@ -55,6 +73,7 @@ Last refreshed: 2026-11-24 21:32 UTC.
 | Generalrobotics | 🆕 Robotics Engineer | Redmond, WA | $155,000 – $205,000 | [View & apply](https://aigradjobs.com/jobs/generalrobotics-robotics-engineer-78abd116-984/) |
 | Generalrobotics | 🆕 Systems Engineer, Robotics ML Infrastructure (Redmond) | Redmond, WA | $155,000 – $205,000 | [View & apply](https://aigradjobs.com/jobs/generalrobotics-systems-engineer-robotics-ml-infrastructure-redmond-53272841-b42/) |
 | Generalrobotics | 🆕 Systems Engineer - Machine Learning | Redmond, WA | $155000-$200000 | [View & apply](https://aigradjobs.com/jobs/generalrobotics-systems-engineer-machine-learning-1df8cd97-2a1/) |
+| Faros-Ai | 🆕 Forward Deployed Engineer | Redwood City · Hybrid | $100K – $150K | [View & apply](https://aigradjobs.com/jobs/faros-ai-forward-deployed-engineer-842a6e50-405/) |
 | Lucida-Ai | 🆕 Forward Deployed Engineer - Lucida AI | Gayrettepe, İstanbul, Turkey | Not disclosed | [View & apply](https://aigradjobs.com/jobs/lucida-ai-forward-deployed-engineer-lucida-ai-250D2E22DF/) |
 | Undercontrolroboticsinc | 🆕 Electrical Engineer (Early Career) | Sunnyvale, CA | $120,000 - $150,000 | [View & apply](https://aigradjobs.com/jobs/undercontrolroboticsinc-electrical-engineer-early-career-4473572009/) |
 | Eloquentai | 🆕 AI Engineer, Platform | San Francisco | Not disclosed | [View & apply](https://aigradjobs.com/jobs/eloquentai-ai-engineer-platform-5ebee283-cf6/) |
@@ -142,25 +161,6 @@ Last refreshed: 2026-11-24 21:32 UTC.
 | Figureai | 🆕 Integration &#38; Test - Mechanical Engineering Intern &#91;Winter 2027&#93; | San Jose, CA | $40.00 to $45.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-integration-test-mechanical-engineering-intern-winter-2027-4726631006/) |
 | Figureai | 🆕 Developer Productivity Intern &#91;Winter 2027&#93; | San Jose, CA | $40.00 to $45.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-developer-productivity-intern-winter-2027-4724521006/) |
 | Figureai | 🆕 Embedded Software Engineering Intern &#91;Winter 2027&#93; | San Jose, CA | $40.00 to $45.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-embedded-software-engineering-intern-winter-2027-4722086006/) |
-| Figureai | 🆕 Commercial Operations Intern &#91;Winter 2027&#93; | San Jose, CA | $30.00 to $40.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-commercial-operations-intern-winter-2027-4719591006/) |
-| Figureai | 🆕 Electrical Engineering Intern &#91;Winter 2027&#93; | San Jose, CA | $40.00 to $45.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-electrical-engineering-intern-winter-2027-4676467006/) |
-| Figureai | 🆕 Validation Engineering Intern &#91;Winter 2027&#93; | San Jose, CA | $40.00 to $45.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-validation-engineering-intern-winter-2027-4606072006/) |
-| Figureai | 🆕 Middleware Intern &#91;Winter 2027&#93; | San Jose, CA | $40.00 to $45.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-middleware-intern-winter-2027-4605724006/) |
-| Figureai | 🆕 Firmware Engineering Intern &#91;Winter 2027&#93; | San Jose, CA | $40.00 to $45.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-firmware-engineering-intern-winter-2027-4601309006/) |
-| Figureai | 🆕 Mechanical Engineer Intern &#91;Winter 2027&#93; | San Jose, CA | $40.00 to $45.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-mechanical-engineer-intern-winter-2027-4303098006/) |
-| Systemstechnologyresearch | 🆕 Simulation Based Systems Test Engineer | Woburn, MA | $110,000 - $139,000 | [View & apply](https://aigradjobs.com/jobs/systemstechnologyresearch-simulation-based-systems-test-engineer-4719785006/) |
-| Harmattan-Ai | 🆕 Junior Robotics Automation Engineer | Orly | Not disclosed | [View & apply](https://aigradjobs.com/jobs/harmattan-ai-junior-robotics-automation-engineer-c5975afd-c1a/) |
-| Veeamsoftware | 🆕 Customer Experience Intern - Summer 2027 | Remote, Georgia, USA | $20-$25 USD | [View & apply](https://aigradjobs.com/jobs/veeamsoftware-customer-experience-intern-summer-2027-5035360101/) |
-| Veeamsoftware | 🆕 Data Scientist | Karachi, Pakistan | Not disclosed | [View & apply](https://aigradjobs.com/jobs/veeamsoftware-data-scientist-5034889101/) |
-| Veeamsoftware | 🆕 Performance QA Engineer | Lisbon, Portugal | Not disclosed | [View & apply](https://aigradjobs.com/jobs/veeamsoftware-performance-qa-engineer-5033110101/) |
-| Veeamsoftware | 🆕 Performance QA Engineer | Prague, Czechia | Not disclosed | [View & apply](https://aigradjobs.com/jobs/veeamsoftware-performance-qa-engineer-5033105101/) |
-| Veeamsoftware | 🆕 QA Engineer | Lisbon, Portugal | Not disclosed | [View & apply](https://aigradjobs.com/jobs/veeamsoftware-qa-engineer-4999597101/) |
-| Veeamsoftware | 🆕 QA Engineer | Prague, Czechia | Not disclosed | [View & apply](https://aigradjobs.com/jobs/veeamsoftware-qa-engineer-4999596101/) |
-| Veeamsoftware | 🆕 QA Engineer | Warsaw, Poland | Not disclosed | [View & apply](https://aigradjobs.com/jobs/veeamsoftware-qa-engineer-4999595101/) |
-| Veeamsoftware | 🆕 Data &#38; Analytics Engineering Intern - Summer 2027 | Alpharetta, GA, USA | $20 - $25 USD | [View & apply](https://aigradjobs.com/jobs/veeamsoftware-data-analytics-engineering-intern-summer-2027-4996533101/) |
-| Veeamsoftware | 🆕 Performance QA Engineer | Warsaw, Poland | Not disclosed | [View & apply](https://aigradjobs.com/jobs/veeamsoftware-performance-qa-engineer-4995581101/) |
-| Veeamsoftware | 🆕 Customer Care AI Analyst Intern - Summer 2027 | Columbus, OH, USA | $20- $25 USD | [View & apply](https://aigradjobs.com/jobs/veeamsoftware-customer-care-ai-analyst-intern-summer-2027-4972324101/) |
-| Veeamsoftware | 🆕 AI/ML Intern Summer 2027 | San Jose, CA, USA | $40 - $50 USD | [View & apply](https://aigradjobs.com/jobs/veeamsoftware-ai-ml-intern-summer-2027-4971207101/) |
 
 ## About
 
