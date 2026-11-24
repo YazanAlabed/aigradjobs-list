@@ -2,8 +2,8 @@
 
 **Free, updated regularly from direct company career feeds.**
 
-**156 active listings · 156 first seen in the past 24h · 12 remote listings**
-Last refreshed: 2026-11-24 19:53 UTC.
+**178 active listings · 178 first seen in the past 24h · 16 remote listings**
+Last refreshed: 2026-11-24 21:00 UTC.
 
 [Browse all jobs](https://aigradjobs.com/) · [AI internships](https://aigradjobs.com/internships/) · [Remote AI jobs](https://aigradjobs.com/remote/) · [Hiring companies](https://aigradjobs.com/companies/) · [Free interview prep and portfolio ideas](https://aigradjobs.com/) · [Join free job alerts](https://aigradjobs.com/#job-alerts)
 
@@ -11,12 +11,24 @@ Last refreshed: 2026-11-24 19:53 UTC.
 
 | Company | Role | Location | Posted pay | Details & free prep |
 | :--- | :--- | :--- | :--- | :--- |
+| Pluralis-Research | 🆕 Research Scientist Intern | San Francisco · Remote | Not disclosed | [View & apply](https://aigradjobs.com/jobs/pluralis-research-research-scientist-intern-c8f78978-a69/) |
+| Pluralis-Research | 🆕 Research Engineer Intern | Australia · Remote | Not disclosed | [View & apply](https://aigradjobs.com/jobs/pluralis-research-research-engineer-intern-8860e7ec-90f/) |
+| Generalrobotics | 🆕 Systems Engineer, Robotics ML Infrastructure (Singapore) | Singapore | S$82,000 – S$220,000 | [View & apply](https://aigradjobs.com/jobs/generalrobotics-systems-engineer-robotics-ml-infrastructure-singapore-b61ea99d-d79/) |
+| Generalrobotics | 🆕 Robotics Engineer | Redmond, WA | $155,000 – $205,000 | [View & apply](https://aigradjobs.com/jobs/generalrobotics-robotics-engineer-78abd116-984/) |
+| Generalrobotics | 🆕 Systems Engineer, Robotics ML Infrastructure (Redmond) | Redmond, WA | $155,000 – $205,000 | [View & apply](https://aigradjobs.com/jobs/generalrobotics-systems-engineer-robotics-ml-infrastructure-redmond-53272841-b42/) |
+| Generalrobotics | 🆕 Systems Engineer - Machine Learning | Redmond, WA | $155000-$200000 | [View & apply](https://aigradjobs.com/jobs/generalrobotics-systems-engineer-machine-learning-1df8cd97-2a1/) |
+| Lucida-Ai | 🆕 Forward Deployed Engineer - Lucida AI | Gayrettepe, İstanbul, Turkey | Not disclosed | [View & apply](https://aigradjobs.com/jobs/lucida-ai-forward-deployed-engineer-lucida-ai-250D2E22DF/) |
+| Undercontrolroboticsinc | 🆕 Electrical Engineer (Early Career) | Sunnyvale, CA | $120,000 - $150,000 per year | [View & apply](https://aigradjobs.com/jobs/undercontrolroboticsinc-electrical-engineer-early-career-4473572009/) |
+| Sevenresearch | 🆕 Deep Learning Researcher - Summer Intern | New York | Not disclosed | [View & apply](https://aigradjobs.com/jobs/sevenresearch-deep-learning-researcher-summer-intern-4895007008/) |
+| Graymatter-Robotics | 🆕 AI Research Intern: Foundation Models - IMMEDIATE START | Los Angeles - HQ | Not disclosed | [View & apply](https://aigradjobs.com/jobs/graymatter-robotics-ai-research-intern-foundation-models-immediate-start-dea0f08d-ebf/) |
+| Graymatter-Robotics | 🆕 Robotics Engineering Intern: Systems &#38; Applications - Winter '27 - January Start | Los Angeles - HQ | Not disclosed | [View & apply](https://aigradjobs.com/jobs/graymatter-robotics-robotics-engineering-intern-systems-applications-winter-27-j-347cbb66-c54/) |
+| Eloquentai | 🆕 AI Engineer, Platform | San Francisco | Not disclosed | [View & apply](https://aigradjobs.com/jobs/eloquentai-ai-engineer-platform-5ebee283-cf6/) |
+| Amd | 🆕 2027 Term 1 Internship – Developing AI &#38; Data Science Solutions to Accelerate AMD's Product Development | Singapore, UNAVAILABLE, SG | Not disclosed | [View & apply](https://aigradjobs.com/jobs/amd-2027-term-1-internship-developing-ai-data-science-solutions--2df9a7aef01c/) |
 | Blossom-Health | 🆕 Applied AI Engineer | New York City | $150K – $220K • Offers Equity | [View & apply](https://aigradjobs.com/jobs/blossom-health-applied-ai-engineer-ed14bfa6-473/) |
 | Intrinsicrobotics | 🆕 Software Engineer, Perception | Singapore | Not disclosed | [View & apply](https://aigradjobs.com/jobs/intrinsicrobotics-software-engineer-perception-5991885004/) |
 | Medraai | 🆕 Research Associate, Protein Purification &#38; Quality Control | San Francisco | $85K – $115K | [View & apply](https://aigradjobs.com/jobs/medraai-research-associate-protein-purification-quality-control-3adae454-8f3/) |
 | Medraai | 🆕 Mechanical Engineer - Winter 2026 Internship | San Francisco | $10K – $11K once | [View & apply](https://aigradjobs.com/jobs/medraai-mechanical-engineer-winter-2026-internship-2a005e91-4b6/) |
 | Collinear-Ai | 🆕 MTS - Research (Cybersecurity) | Sunnyvale, California · Hybrid | Not disclosed | [View & apply](https://aigradjobs.com/jobs/collinear-ai-mts-research-cybersecurity-06258760-3ac/) |
-| Thealleninstitute | 🆕 Research Internship, AI for Science | Seattle, WA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/thealleninstitute-research-internship-ai-for-science-8293615/) |
 | Levelai | 🆕 AI Analyst | Noida | Not disclosed | [View & apply](https://aigradjobs.com/jobs/levelai-ai-analyst-c55479cf-bc3/) |
 | Friendliai | 🆕 Customer Success Engineer (contract based) | Seoul | Not disclosed | [View & apply](https://aigradjobs.com/jobs/friendliai-customer-success-engineer-contract-based-11f5ea91-977/) |
 | Rendezvousrobotics | 🆕 Flight Software Engineer (Early Career) | Golden, CO | $85,000 - $115,000 | [View & apply](https://aigradjobs.com/jobs/rendezvousrobotics-flight-software-engineer-early-career-4464270009/) |
@@ -79,10 +91,19 @@ Last refreshed: 2026-11-24 19:53 UTC.
 | Reliable-Robotics | 🆕 Flight Simulation Engineering Intern (Summer 2027) | Mountain View, CA | $128K | [View & apply](https://aigradjobs.com/jobs/reliable-robotics-flight-simulation-engineering-intern-summer-2027-0cd44e07-169/) |
 | Reliable-Robotics | 🆕 Hardware Test Engineering Intern (Summer 2027) | Mountain View, CA | $105K | [View & apply](https://aigradjobs.com/jobs/reliable-robotics-hardware-test-engineering-intern-summer-2027-0af72d5a-87b/) |
 | Togetherai | 🆕 Sales Development Engineer | San Francisco | $90K-150K OTE + equity + benefits | [View & apply](https://aigradjobs.com/jobs/togetherai-sales-development-engineer-4967737007/) |
+| Towerresearchcapital | 🆕 Data Engineer | Hong Kong | Not disclosed | [View & apply](https://aigradjobs.com/jobs/towerresearchcapital-data-engineer-8194414/) |
 | Towerresearchcapital | 🆕 Intern | Gift City | Not disclosed | [View & apply](https://aigradjobs.com/jobs/towerresearchcapital-intern-8184771/) |
 | Towerresearchcapital | 🆕 Développeur de logiciels C++ nouvellement diplômé / New Grad C++ Software Developer | Montreal | Not disclosed | [View & apply](https://aigradjobs.com/jobs/towerresearchcapital-d-veloppeur-de-logiciels-c-nouvellement-dipl-m-new-grad-c-so-8126667/) |
 | Towerresearchcapital | 🆕 Machine Learning Engineer | Hong Kong, Singapore, Shanghai | Not disclosed | [View & apply](https://aigradjobs.com/jobs/towerresearchcapital-machine-learning-engineer-7714667/) |
 | Towerresearchcapital | 🆕 Quantitative Developer | Gurgaon | Not disclosed | [View & apply](https://aigradjobs.com/jobs/towerresearchcapital-quantitative-developer-7102180/) |
+| Partner-One-Capital | 🆕 Associate Automation Engineer | India · Remote | Not disclosed | [View & apply](https://aigradjobs.com/jobs/partner-one-capital-associate-automation-engineer-DB382852E3/) |
+| Partner-One-Capital | 🆕 Technical Support Engineer | Egypt · Remote | Not disclosed | [View & apply](https://aigradjobs.com/jobs/partner-one-capital-technical-support-engineer-4C173F30FF/) |
+| Field-Ai | 🆕 R&#38;D Technician, Robotics Hardware | Irvine, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/field-ai-r-d-technician-robotics-hardware-d53f4074-ed2/) |
+| Field-Ai | 🆕 Robotics QA/QC Engineer | Irvine, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/field-ai-robotics-qa-qc-engineer-9fe4ed83-5dc/) |
+| Field-Ai | 🆕 Electrical Engineer, Autonomous Vehicles (Federal) | Irvine, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/field-ai-electrical-engineer-autonomous-vehicles-federal-9ad21207-951/) |
+| Field-Ai | 🆕 Embedded Systems Engineer, Robotics Hardware | Irvine, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/field-ai-embedded-systems-engineer-robotics-hardware-7a0d12c7-957/) |
+| Field-Ai | 🆕 Embedded Systems Engineer, Autonomous Vehicles (Federal) | Irvine, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/field-ai-embedded-systems-engineer-autonomous-vehicles-federal-5aa0a3ef-b69/) |
+| Field-Ai | 🆕 Mechanical Engineer, Autonomous Vehicles (Federal) | Irvine, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/field-ai-mechanical-engineer-autonomous-vehicles-federal-0e394f4f-f8f/) |
 | Figureai | 🆕 Integration &#38; Test - Mechanical Engineering Intern &#91;Winter 2027&#93; | San Jose, CA | $40.00 to $45.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-integration-test-mechanical-engineering-intern-winter-2027-4726631006/) |
 | Figureai | 🆕 Developer Productivity Intern &#91;Winter 2027&#93; | San Jose, CA | $40.00 to $45.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-developer-productivity-intern-winter-2027-4724521006/) |
 | Figureai | 🆕 Embedded Software Engineering Intern &#91;Winter 2027&#93; | San Jose, CA | $40.00 to $45.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-embedded-software-engineering-intern-winter-2027-4722086006/) |
@@ -92,10 +113,11 @@ Last refreshed: 2026-11-24 19:53 UTC.
 | Figureai | 🆕 Middleware Intern &#91;Winter 2027&#93; | San Jose, CA | $40.00 to $45.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-middleware-intern-winter-2027-4605724006/) |
 | Figureai | 🆕 Firmware Engineering Intern &#91;Winter 2027&#93; | San Jose, CA | $40.00 to $45.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-firmware-engineering-intern-winter-2027-4601309006/) |
 | Figureai | 🆕 Mechanical Engineer Intern &#91;Winter 2027&#93; | San Jose, CA | $40.00 to $45.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-mechanical-engineer-intern-winter-2027-4303098006/) |
+| Systemstechnologyresearch | 🆕 Simulation Based Systems Test Engineer | Woburn, MA | $110,000 - $139,000 | [View & apply](https://aigradjobs.com/jobs/systemstechnologyresearch-simulation-based-systems-test-engineer-4719785006/) |
 | Veeamsoftware | 🆕 Customer Experience Intern - Summer 2027 | Remote, Georgia, USA | $20-$25 USD | [View & apply](https://aigradjobs.com/jobs/veeamsoftware-customer-experience-intern-summer-2027-5035360101/) |
 | Veeamsoftware | 🆕 Data &#38; Analytics Engineering Intern - Summer 2027 | Alpharetta, GA, USA | $20 - $25 USD | [View & apply](https://aigradjobs.com/jobs/veeamsoftware-data-analytics-engineering-intern-summer-2027-4996533101/) |
 | Veeamsoftware | 🆕 Customer Care AI Analyst Intern - Summer 2027 | Columbus, OH, USA | $20- $25 USD | [View & apply](https://aigradjobs.com/jobs/veeamsoftware-customer-care-ai-analyst-intern-summer-2027-4972324101/) |
-| Veeamsoftware | 🆕 AI/ML Intern Summer 2027 | San Jose, CA, USA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/veeamsoftware-ai-ml-intern-summer-2027-4971207101/) |
+| Veeamsoftware | 🆕 AI/ML Intern Summer 2027 | San Jose, CA, USA | $40 - $50 USD | [View & apply](https://aigradjobs.com/jobs/veeamsoftware-ai-ml-intern-summer-2027-4971207101/) |
 | Veeamsoftware | 🆕 People &#38; Culture AI Transformation Intern- Summer 2027 | Remote, Georgia, USA | $20- $25 USD | [View & apply](https://aigradjobs.com/jobs/veeamsoftware-people-culture-ai-transformation-intern-summer-2027-4971202101/) |
 | Veeamsoftware | 🆕 AI &#38; Automation Engineering Intern - Summer 2027 | Remote, Georgia, USA | $20 - $25 USD | [View & apply](https://aigradjobs.com/jobs/veeamsoftware-ai-automation-engineering-intern-summer-2027-4955296101/) |
 | Xai | 🆕 Summer 2027 Software Engineering Internship/Co-op | Palo Alto, CA | Software Engineering Intern/Freshman/Sophomore: $30 USD per hour | [View & apply](https://aigradjobs.com/jobs/xai-summer-2027-software-engineering-internship-co-op-5255111007/) |
@@ -139,28 +161,6 @@ Last refreshed: 2026-11-24 19:53 UTC.
 | Databricks | 🆕 Solutions Engineer | Chicago, Illinois | Not disclosed | [View & apply](https://aigradjobs.com/jobs/databricks-solutions-engineer-8886944002/) |
 | Databricks | 🆕 Scale Solution Engineer | Heredia, Costa Rica | Not disclosed | [View & apply](https://aigradjobs.com/jobs/databricks-scale-solution-engineer-8779018002/) |
 | Databricks | 🆕 Software Engineer - Backend | Amsterdam, Netherlands | Not disclosed | [View & apply](https://aigradjobs.com/jobs/databricks-software-engineer-backend-8029666002/) |
-| Databricks | 🆕 Software Engineer - Backend | Aarhus, Denmark | Not disclosed | [View & apply](https://aigradjobs.com/jobs/databricks-software-engineer-backend-7737233002/) |
-| Coinbase | 🆕 Strategic Sourcing Intern | Hybrid - New York, NY | Not disclosed | [View & apply](https://aigradjobs.com/jobs/coinbase-strategic-sourcing-intern-8376084/) |
-| Coinbase | 🆕 Software Engineer - Crypto Data Foundations | Remote - USA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/coinbase-software-engineer-crypto-data-foundations-8304038/) |
-| Coinbase | 🆕 Software Engineer-1, Money Movement | Remote - USA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/coinbase-software-engineer-1-money-movement-8278991/) |
-| Coinbase | 🆕 Tax Information Reporting Intern | Hybrid - New York, NY | Not disclosed | [View & apply](https://aigradjobs.com/jobs/coinbase-tax-information-reporting-intern-8221241/) |
-| Coinbase | 🆕 Internal Audit Analytics Intern | Hybrid - New York, NY | Not disclosed | [View & apply](https://aigradjobs.com/jobs/coinbase-internal-audit-analytics-intern-8221238/) |
-| Coinbase | 🆕 Threat Intelligence Platform Engineer | Remote - USA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/coinbase-threat-intelligence-platform-engineer-8177619/) |
-| Coinbase | 🆕 Institutional Operations Intern | Hybrid - New York, NY | Not disclosed | [View & apply](https://aigradjobs.com/jobs/coinbase-institutional-operations-intern-8175569/) |
-| Coinbase | 🆕 Policy Intern | Hybrid - New York, NY | Not disclosed | [View & apply](https://aigradjobs.com/jobs/coinbase-policy-intern-8175556/) |
-| Coinbase | 🆕 People Analytics Intern | Hybrid - New York, NY | Not disclosed | [View & apply](https://aigradjobs.com/jobs/coinbase-people-analytics-intern-8175517/) |
-| Coinbase | 🆕 Forward Deployed Engineer Intern (HR Technology) | Hybrid - New York, NY | Not disclosed | [View & apply](https://aigradjobs.com/jobs/coinbase-forward-deployed-engineer-intern-hr-technology-8175510/) |
-| Coinbase | 🆕 Real Estate &#38; Builds Intern | Hybrid - New York, NY | Not disclosed | [View & apply](https://aigradjobs.com/jobs/coinbase-real-estate-builds-intern-8175507/) |
-| Coinbase | 🆕 Analytics Engineer Intern | Hybrid - New York, NY | Not disclosed | [View & apply](https://aigradjobs.com/jobs/coinbase-analytics-engineer-intern-8175471/) |
-| Coinbase | 🆕 Tax Operations Intern | Hybrid - New York, NY | Not disclosed | [View & apply](https://aigradjobs.com/jobs/coinbase-tax-operations-intern-8175453/) |
-| Coinbase | 🆕 Payment Risk Intern | Hybrid - New York, NY | Not disclosed | [View & apply](https://aigradjobs.com/jobs/coinbase-payment-risk-intern-8175447/) |
-| Coinbase | 🆕 Internal Audit Intern | Hybrid - New York, NY | Not disclosed | [View & apply](https://aigradjobs.com/jobs/coinbase-internal-audit-intern-8175432/) |
-| Coinbase | 🆕 Employee and Workplace Experience Intern | Hybrid - New York, NY | Not disclosed | [View & apply](https://aigradjobs.com/jobs/coinbase-employee-and-workplace-experience-intern-8175429/) |
-| Coinbase | 🆕 Credit Risk Intern | Hybrid - New York, NY | Not disclosed | [View & apply](https://aigradjobs.com/jobs/coinbase-credit-risk-intern-8175369/) |
-| Coinbase | 🆕 Software Engineer Intern | Hybrid - San Francisco, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/coinbase-software-engineer-intern-8168315/) |
-| Coinbase | 🆕 Software Engineer, Blockchain Platform Nodes | Remote - USA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/coinbase-software-engineer-blockchain-platform-nodes-8105437/) |
-| Anthropic | 🆕 Research Associate, Biology | San Francisco, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/anthropic-research-associate-biology-5285248008/) |
-| Openai | 🆕 Software Engineer, Applied Emerging Talent (2027) | San Francisco · Hybrid | $180K • Offers Equity | [View & apply](https://aigradjobs.com/jobs/openai-software-engineer-applied-emerging-talent-2027-55150071-fce/) |
 
 ## About
 
