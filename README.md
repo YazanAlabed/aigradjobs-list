@@ -2,8 +2,8 @@
 
 **Free, updated regularly from direct company career feeds.**
 
-**109 active listings · 109 first seen in the past 24h · 8 remote listings**
-Last refreshed: 2026-11-24 06:18 UTC.
+**116 active listings · 116 first seen in the past 24h · 8 remote listings**
+Last refreshed: 2026-11-24 14:47 UTC.
 
 [Browse all jobs](https://aigradjobs.com/) · [AI internships](https://aigradjobs.com/internships/) · [Remote AI jobs](https://aigradjobs.com/remote/) · [Hiring companies](https://aigradjobs.com/companies/) · [Free interview prep and portfolio ideas](https://aigradjobs.com/) · [Join free job alerts](https://aigradjobs.com/#job-alerts)
 
@@ -11,16 +11,18 @@ Last refreshed: 2026-11-24 06:18 UTC.
 
 | Company | Role | Location | Posted pay | Details & free prep |
 | :--- | :--- | :--- | :--- | :--- |
+| Mindrobotics | 🆕 Software Engineer, Data Platform | Palo Alto | Not disclosed | [View & apply](https://aigradjobs.com/jobs/mindrobotics-software-engineer-data-platform-375e5c16-b4a/) |
+| Mindrobotics | 🆕 Software Engineer, Data Infrastructure | Palo Alto | Not disclosed | [View & apply](https://aigradjobs.com/jobs/mindrobotics-software-engineer-data-infrastructure-105d9f55-991/) |
+| Mindrobotics | 🆕 Software Engineer, Edge &#38; Field Systems | Palo Alto | Not disclosed | [View & apply](https://aigradjobs.com/jobs/mindrobotics-software-engineer-edge-field-systems-00d89fc0-cb5/) |
+| Lgairesearch | 🆕 Research Internship - Physical AI | Gangseo-gu, Seoul, South Korea | Not disclosed | [View & apply](https://aigradjobs.com/jobs/lgairesearch-research-internship-physical-ai-4725958005/) |
+| Rhoda-Ai | 🆕 Software Engineer Intern, Rhoda Platform | Sunnyvale, CA | $40 – $50 per hour | [View & apply](https://aigradjobs.com/jobs/rhoda-ai-software-engineer-intern-rhoda-platform-9a57c8ff-dd2/) |
+| Rhoda-Ai | 🆕 Software Engineer, Rhoda Platform | Sunnyvale, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/rhoda-ai-software-engineer-rhoda-platform-36a82229-5ca/) |
 | 1X | 🆕 Robotics Deployment Engineer | San Carlos, CA | $118K – $151K • Offers Equity | [View & apply](https://aigradjobs.com/jobs/1x-robotics-deployment-engineer-93ffa012-5a8/) |
 | 1X | 🆕 Firmware Engineer - Testing | San Carlos, CA | $150K – $190K | [View & apply](https://aigradjobs.com/jobs/1x-firmware-engineer-testing-4cb3ef10-875/) |
 | 1Password | 🆕 Developer, Device Trust Reliability | Remote (United States &#124; Canada) · Remote | $123,000 USD and $172,000 USD | [View & apply](https://aigradjobs.com/jobs/1password-developer-device-trust-reliability-443f9ef6-13a/) |
 | Agilerobotsse | 🆕 Supplier Quality Engineer (all genders) | Munich, Bavaria, Germany | Not disclosed | [View & apply](https://aigradjobs.com/jobs/agilerobotsse-supplier-quality-engineer-all-genders-5042330101/) |
 | Agilerobotsse | 🆕 Full-Stack Developer Intern (m/f/d) Robotics Data Collection | Munich, Bavaria, Germany | Not disclosed | [View & apply](https://aigradjobs.com/jobs/agilerobotsse-full-stack-developer-intern-m-f-d-robotics-data-collection-4986680101/) |
 | Agilerobotsse | 🆕 Robotics Test Automation Engineer (m/f/d) | Munich, Bavaria, Germany | Not disclosed | [View & apply](https://aigradjobs.com/jobs/agilerobotsse-robotics-test-automation-engineer-m-f-d-4964785101/) |
-| Neuralink | 🆕 Firmware Engineer Intern, Robotics and Surgery Engineering | South San Francisco, California, United States | Not disclosed | [View & apply](https://aigradjobs.com/jobs/neuralink-firmware-engineer-intern-robotics-and-surgery-engineering-6648992003/) |
-| Neuralink | 🆕 Electrical Engineer Intern, Robotics and Surgery Engineering | South San Francisco, California, United States | Not disclosed | [View & apply](https://aigradjobs.com/jobs/neuralink-electrical-engineer-intern-robotics-and-surgery-engineering-6607398003/) |
-| Neuralink | 🆕 Machine Learning Engineer Intern | South San Francisco, California, United States | Not disclosed | [View & apply](https://aigradjobs.com/jobs/neuralink-machine-learning-engineer-intern-6594261003/) |
-| Neuralink | 🆕 Mechanical Engineering Intern, Robotics and Surgery Engineering | South San Francisco, California, United States | Not disclosed | [View & apply](https://aigradjobs.com/jobs/neuralink-mechanical-engineering-intern-robotics-and-surgery-engineeri-6514169003/) |
 | Neuralink | 🆕 Software Engineer Intern, Robotics | Austin, Texas, United States; South San Francisco, California, United States | Not disclosed | [View & apply](https://aigradjobs.com/jobs/neuralink-software-engineer-intern-robotics-5469305003/) |
 | Agilityrobotics | 🆕 Mechanical Engineer II | Hybrid- Fremont, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/agilityrobotics-mechanical-engineer-ii-6227252004/) |
 | Reliable-Robotics | 🆕 System Integration &#38; Test Intern (Summer 2027) | Mountain View, CA | $105K • 3k Housing Stipend For Qualified Applicants | [View & apply](https://aigradjobs.com/jobs/reliable-robotics-system-integration-test-intern-summer-2027-f4324206-46a/) |
@@ -35,13 +37,18 @@ Last refreshed: 2026-11-24 06:18 UTC.
 | Reliable-Robotics | 🆕 FPGA Engineering Intern (Summer 2027) | Mountain View, CA | $128K | [View & apply](https://aigradjobs.com/jobs/reliable-robotics-fpga-engineering-intern-summer-2027-131987a0-ede/) |
 | Reliable-Robotics | 🆕 Manufacturing Engineering Intern (Summer 2027) | Mountain View, CA | $105K | [View & apply](https://aigradjobs.com/jobs/reliable-robotics-manufacturing-engineering-intern-summer-2027-1085bdf8-f02/) |
 | Reliable-Robotics | 🆕 Flight Simulation Engineering Intern (Summer 2027) | Mountain View, CA | $128K | [View & apply](https://aigradjobs.com/jobs/reliable-robotics-flight-simulation-engineering-intern-summer-2027-0cd44e07-169/) |
+| Reliable-Robotics | 🆕 Hardware Test Engineering Intern (Summer 2027) | Mountain View, CA | $105K | [View & apply](https://aigradjobs.com/jobs/reliable-robotics-hardware-test-engineering-intern-summer-2027-0af72d5a-87b/) |
+| Togetherai | 🆕 Sales Development Engineer | San Francisco | $90K-150K OTE + equity + benefits | [View & apply](https://aigradjobs.com/jobs/togetherai-sales-development-engineer-4967737007/) |
 | Towerresearchcapital | 🆕 Intern | Gift City | Not disclosed | [View & apply](https://aigradjobs.com/jobs/towerresearchcapital-intern-8184771/) |
 | Towerresearchcapital | 🆕 Développeur de logiciels C++ nouvellement diplômé / New Grad C++ Software Developer | Montreal | Not disclosed | [View & apply](https://aigradjobs.com/jobs/towerresearchcapital-d-veloppeur-de-logiciels-c-nouvellement-dipl-m-new-grad-c-so-8126667/) |
+| Towerresearchcapital | 🆕 Quantitative Developer | Gurgaon | Not disclosed | [View & apply](https://aigradjobs.com/jobs/towerresearchcapital-quantitative-developer-7102180/) |
 | Figureai | 🆕 Integration &#38; Test - Mechanical Engineering Intern &#91;Winter 2027&#93; | San Jose, CA | $40.00 to $45.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-integration-test-mechanical-engineering-intern-winter-2027-4726631006/) |
+| Figureai | 🆕 Developer Productivity Intern &#91;Winter 2027&#93; | San Jose, CA | $40.00 to $45.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-developer-productivity-intern-winter-2027-4724521006/) |
 | Figureai | 🆕 Embedded Software Engineering Intern &#91;Winter 2027&#93; | San Jose, CA | $40.00 to $45.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-embedded-software-engineering-intern-winter-2027-4722086006/) |
 | Figureai | 🆕 Commercial Operations Intern &#91;Winter 2027&#93; | San Jose, CA | $30.00 to $40.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-commercial-operations-intern-winter-2027-4719591006/) |
 | Figureai | 🆕 Electrical Engineering Intern &#91;Winter 2027&#93; | San Jose, CA | $40.00 to $45.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-electrical-engineering-intern-winter-2027-4676467006/) |
 | Figureai | 🆕 Validation Engineering Intern &#91;Winter 2027&#93; | San Jose, CA | $40.00 to $45.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-validation-engineering-intern-winter-2027-4606072006/) |
+| Figureai | 🆕 Middleware Intern &#91;Winter 2027&#93; | San Jose, CA | $40.00 to $45.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-middleware-intern-winter-2027-4605724006/) |
 | Figureai | 🆕 Firmware Engineering Intern &#91;Winter 2027&#93; | San Jose, CA | $40.00 to $45.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-firmware-engineering-intern-winter-2027-4601309006/) |
 | Figureai | 🆕 Mechanical Engineer Intern &#91;Winter 2027&#93; | San Jose, CA | $40.00 to $45.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-mechanical-engineer-intern-winter-2027-4303098006/) |
 | Veeamsoftware | 🆕 Customer Experience Intern - Summer 2027 | Remote, Georgia, USA | $20-$25 USD | [View & apply](https://aigradjobs.com/jobs/veeamsoftware-customer-experience-intern-summer-2027-5035360101/) |
@@ -54,6 +61,7 @@ Last refreshed: 2026-11-24 06:18 UTC.
 | Xai | 🆕 Spring 2027 Software Engineering Internship/Co-op | Palo Alto, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/xai-spring-2027-software-engineering-internship-co-op-5252108007/) |
 | Palantir | 🆕 Software Engineer, New Grad - Production Infrastructure | New York, NY · Hybrid | Not disclosed | [View & apply](https://aigradjobs.com/jobs/palantir-software-engineer-new-grad-production-infrastructure-e1a6c138-98b/) |
 | Palantir | 🆕 Software Engineer, Internship - Defense Tech | Palo Alto, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/palantir-software-engineer-internship-defense-tech-a483f41b-0da/) |
+| Palantir | 🆕 Forward Deployed Engineer - Mixed Reality | Washington, D.C. | Not disclosed | [View & apply](https://aigradjobs.com/jobs/palantir-forward-deployed-engineer-mixed-reality-96a0ce26-cf8/) |
 | Palantir | 🆕 Software Engineer, Internship - Defense Tech | New York, NY | Not disclosed | [View & apply](https://aigradjobs.com/jobs/palantir-software-engineer-internship-defense-tech-8bcf4f33-0a7/) |
 | Palantir | 🆕 Forward Deployed Software Engineer | Chicago, IL · Hybrid | Not disclosed | [View & apply](https://aigradjobs.com/jobs/palantir-forward-deployed-software-engineer-7ea66860-ae9/) |
 | Palantir | 🆕 Software Engineer, Internship - Production Infrastructure | Washington, D.C. | Not disclosed | [View & apply](https://aigradjobs.com/jobs/palantir-software-engineer-internship-production-infrastructure-3ab9e715-1ea/) |
@@ -84,7 +92,6 @@ Last refreshed: 2026-11-24 06:18 UTC.
 | Stripe | 🆕 Software Engineer, New Grad | San Francisco, Seattle, New York | Not disclosed | [View & apply](https://aigradjobs.com/jobs/stripe-software-engineer-new-grad-8128744/) |
 | Stripe | 🆕 Software Engineer, Intern (Summer or Winter) | Dublin | Not disclosed | [View & apply](https://aigradjobs.com/jobs/stripe-software-engineer-intern-summer-or-winter-8097801/) |
 | Stripe | 🆕 Software Engineer, Intern | Bengaluru | Not disclosed | [View & apply](https://aigradjobs.com/jobs/stripe-software-engineer-intern-8031833/) |
-| Scaleai | 🆕 AI Safety Residency — Scale Labs Preparedness &#38; Policy (SLPreP) | United Kingdom; United States | $100/hour | [View & apply](https://aigradjobs.com/jobs/scaleai-ai-safety-residency-scale-labs-preparedness-policy-slprep-4744402005/) |
 | Gleanwork | 🆕 Software Engineer, Developer Productivity | Mountain View, CA | $140,000 - $220,000 | [View & apply](https://aigradjobs.com/jobs/gleanwork-software-engineer-developer-productivity-4614706005/) |
 | Gleanwork | 🆕 Quality Assurance Engineer | Bangalore, India | Not disclosed | [View & apply](https://aigradjobs.com/jobs/gleanwork-quality-assurance-engineer-4012824005/) |
 | Figma | 🆕 Data Engineer Intern (2027) | San Francisco, CA • New York, NY | Not disclosed | [View & apply](https://aigradjobs.com/jobs/figma-data-engineer-intern-2027-6178851004/) |
