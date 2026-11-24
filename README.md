@@ -2,8 +2,8 @@
 
 **Free, updated regularly from direct company career feeds.**
 
-**178 active listings · 178 first seen in the past 24h · 16 remote listings**
-Last refreshed: 2026-11-24 21:00 UTC.
+**193 active listings · 193 first seen in the past 24h · 16 remote listings**
+Last refreshed: 2026-11-24 21:15 UTC.
 
 [Browse all jobs](https://aigradjobs.com/) · [AI internships](https://aigradjobs.com/internships/) · [Remote AI jobs](https://aigradjobs.com/remote/) · [Hiring companies](https://aigradjobs.com/companies/) · [Free interview prep and portfolio ideas](https://aigradjobs.com/) · [Join free job alerts](https://aigradjobs.com/#job-alerts)
 
@@ -11,17 +11,14 @@ Last refreshed: 2026-11-24 21:00 UTC.
 
 | Company | Role | Location | Posted pay | Details & free prep |
 | :--- | :--- | :--- | :--- | :--- |
-| Pluralis-Research | 🆕 Research Scientist Intern | San Francisco · Remote | Not disclosed | [View & apply](https://aigradjobs.com/jobs/pluralis-research-research-scientist-intern-c8f78978-a69/) |
-| Pluralis-Research | 🆕 Research Engineer Intern | Australia · Remote | Not disclosed | [View & apply](https://aigradjobs.com/jobs/pluralis-research-research-engineer-intern-8860e7ec-90f/) |
+| Clera | 🆕 Full-Stack Software Engineering Intern | New York · Remote | $50 per hour | [View & apply](https://aigradjobs.com/jobs/clera-full-stack-software-engineering-intern-42992916-9ca/) |
+| Clera | 🆕 Founders Associate Intern | Berlin | €28.8K | [View & apply](https://aigradjobs.com/jobs/clera-founders-associate-intern-36e04471-4ee/) |
 | Generalrobotics | 🆕 Systems Engineer, Robotics ML Infrastructure (Singapore) | Singapore | S$82,000 – S$220,000 | [View & apply](https://aigradjobs.com/jobs/generalrobotics-systems-engineer-robotics-ml-infrastructure-singapore-b61ea99d-d79/) |
 | Generalrobotics | 🆕 Robotics Engineer | Redmond, WA | $155,000 – $205,000 | [View & apply](https://aigradjobs.com/jobs/generalrobotics-robotics-engineer-78abd116-984/) |
 | Generalrobotics | 🆕 Systems Engineer, Robotics ML Infrastructure (Redmond) | Redmond, WA | $155,000 – $205,000 | [View & apply](https://aigradjobs.com/jobs/generalrobotics-systems-engineer-robotics-ml-infrastructure-redmond-53272841-b42/) |
 | Generalrobotics | 🆕 Systems Engineer - Machine Learning | Redmond, WA | $155000-$200000 | [View & apply](https://aigradjobs.com/jobs/generalrobotics-systems-engineer-machine-learning-1df8cd97-2a1/) |
 | Lucida-Ai | 🆕 Forward Deployed Engineer - Lucida AI | Gayrettepe, İstanbul, Turkey | Not disclosed | [View & apply](https://aigradjobs.com/jobs/lucida-ai-forward-deployed-engineer-lucida-ai-250D2E22DF/) |
-| Undercontrolroboticsinc | 🆕 Electrical Engineer (Early Career) | Sunnyvale, CA | $120,000 - $150,000 per year | [View & apply](https://aigradjobs.com/jobs/undercontrolroboticsinc-electrical-engineer-early-career-4473572009/) |
-| Sevenresearch | 🆕 Deep Learning Researcher - Summer Intern | New York | Not disclosed | [View & apply](https://aigradjobs.com/jobs/sevenresearch-deep-learning-researcher-summer-intern-4895007008/) |
-| Graymatter-Robotics | 🆕 AI Research Intern: Foundation Models - IMMEDIATE START | Los Angeles - HQ | Not disclosed | [View & apply](https://aigradjobs.com/jobs/graymatter-robotics-ai-research-intern-foundation-models-immediate-start-dea0f08d-ebf/) |
-| Graymatter-Robotics | 🆕 Robotics Engineering Intern: Systems &#38; Applications - Winter '27 - January Start | Los Angeles - HQ | Not disclosed | [View & apply](https://aigradjobs.com/jobs/graymatter-robotics-robotics-engineering-intern-systems-applications-winter-27-j-347cbb66-c54/) |
+| Undercontrolroboticsinc | 🆕 Electrical Engineer (Early Career) | Sunnyvale, CA | $120,000 - $150,000 | [View & apply](https://aigradjobs.com/jobs/undercontrolroboticsinc-electrical-engineer-early-career-4473572009/) |
 | Eloquentai | 🆕 AI Engineer, Platform | San Francisco | Not disclosed | [View & apply](https://aigradjobs.com/jobs/eloquentai-ai-engineer-platform-5ebee283-cf6/) |
 | Amd | 🆕 2027 Term 1 Internship – Developing AI &#38; Data Science Solutions to Accelerate AMD's Product Development | Singapore, UNAVAILABLE, SG | Not disclosed | [View & apply](https://aigradjobs.com/jobs/amd-2027-term-1-internship-developing-ai-data-science-solutions--2df9a7aef01c/) |
 | Blossom-Health | 🆕 Applied AI Engineer | New York City | $150K – $220K • Offers Equity | [View & apply](https://aigradjobs.com/jobs/blossom-health-applied-ai-engineer-ed14bfa6-473/) |
@@ -120,9 +117,22 @@ Last refreshed: 2026-11-24 21:00 UTC.
 | Veeamsoftware | 🆕 AI/ML Intern Summer 2027 | San Jose, CA, USA | $40 - $50 USD | [View & apply](https://aigradjobs.com/jobs/veeamsoftware-ai-ml-intern-summer-2027-4971207101/) |
 | Veeamsoftware | 🆕 People &#38; Culture AI Transformation Intern- Summer 2027 | Remote, Georgia, USA | $20- $25 USD | [View & apply](https://aigradjobs.com/jobs/veeamsoftware-people-culture-ai-transformation-intern-summer-2027-4971202101/) |
 | Veeamsoftware | 🆕 AI &#38; Automation Engineering Intern - Summer 2027 | Remote, Georgia, USA | $20 - $25 USD | [View & apply](https://aigradjobs.com/jobs/veeamsoftware-ai-automation-engineering-intern-summer-2027-4955296101/) |
+| Mistral.Ai | 🆕 Applied AI, Forward Deployed Engineer - CyberSecurity (Europe) | Paris | Not disclosed | [View & apply](https://aigradjobs.com/jobs/mistral-ai-applied-ai-forward-deployed-engineer-cybersecurity-europe-647be1ec-19d/) |
+| Mistral.Ai | 🆕 Evaluation Engineer, Applied AI | Paris | Not disclosed | [View & apply](https://aigradjobs.com/jobs/mistral-ai-evaluation-engineer-applied-ai-5e6f3efd-36a/) |
+| Mistral.Ai | 🆕 Associate AI Deployment Strategist | Paris | Not disclosed | [View & apply](https://aigradjobs.com/jobs/mistral-ai-associate-ai-deployment-strategist-16ba2bfe-dda/) |
+| Xai | 🆕 Data Visualization Engineer | Palo Alto, CA | $100,000 - $198,000 USD | [View & apply](https://aigradjobs.com/jobs/xai-data-visualization-engineer-5265194007/) |
 | Xai | 🆕 Summer 2027 Software Engineering Internship/Co-op | Palo Alto, CA | Software Engineering Intern/Freshman/Sophomore: $30 USD per hour | [View & apply](https://aigradjobs.com/jobs/xai-summer-2027-software-engineering-internship-co-op-5255111007/) |
 | Xai | 🆕 Spring 2027 Software Engineering Internship/Co-op | Palo Alto, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/xai-spring-2027-software-engineering-internship-co-op-5252108007/) |
+| Xai | 🆕 Mechanical Engineer - Memphis | Southaven, MS; Memphis, TN | Not disclosed | [View & apply](https://aigradjobs.com/jobs/xai-mechanical-engineer-memphis-5206940007/) |
+| Xai | 🆕 Human Data Engineer | Palo Alto, CA | $144,000 - $220,000 USD | [View & apply](https://aigradjobs.com/jobs/xai-human-data-engineer-5204819007/) |
+| Xai | 🆕 Software Engineer, Linux Kernel | Palo Alto, CA; Seattle, WA | $140,000 - $225,000 USD | [View & apply](https://aigradjobs.com/jobs/xai-software-engineer-linux-kernel-5202187007/) |
+| Xai | 🆕 Software Engineer, Network (C++) | Palo Alto, CA; Seattle, WA | $140,000 - $225,000 USD | [View & apply](https://aigradjobs.com/jobs/xai-software-engineer-network-c-5179367007/) |
+| Xai | 🆕 Operations Engineer, Construction &#38; Site Efficiency - Memphis | Southaven, MS; Memphis, TN | Not disclosed | [View & apply](https://aigradjobs.com/jobs/xai-operations-engineer-construction-site-efficiency-memphis-5159251007/) |
+| Xai | 🆕 Software Engineer, Ads Product | Palo Alto, CA | $140,000 - $225,000 USD | [View & apply](https://aigradjobs.com/jobs/xai-software-engineer-ads-product-5152408007/) |
+| Zoox | 🆕 Hardware Engineer - Test Development | Foster City, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/zoox-hardware-engineer-test-development-a90cfd71-943/) |
 | Palantir | 🆕 Software Engineer, New Grad - Production Infrastructure | New York, NY · Hybrid | Not disclosed | [View & apply](https://aigradjobs.com/jobs/palantir-software-engineer-new-grad-production-infrastructure-e1a6c138-98b/) |
+| Palantir | 🆕 Forward Deployed Software Engineer | New York, NY · Hybrid | Not disclosed | [View & apply](https://aigradjobs.com/jobs/palantir-forward-deployed-software-engineer-dab396d4-2f1/) |
+| Palantir | 🆕 Software Engineer - Defense Applications | New York, NY | Not disclosed | [View & apply](https://aigradjobs.com/jobs/palantir-software-engineer-defense-applications-c288bb43-3c6/) |
 | Palantir | 🆕 Software Engineer, Internship - Defense Tech | Palo Alto, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/palantir-software-engineer-internship-defense-tech-a483f41b-0da/) |
 | Palantir | 🆕 Forward Deployed Engineer - Mixed Reality | Washington, D.C. | Not disclosed | [View & apply](https://aigradjobs.com/jobs/palantir-forward-deployed-engineer-mixed-reality-96a0ce26-cf8/) |
 | Palantir | 🆕 Software Engineer, Internship - Defense Tech | New York, NY | Not disclosed | [View & apply](https://aigradjobs.com/jobs/palantir-software-engineer-internship-defense-tech-8bcf4f33-0a7/) |
@@ -151,16 +161,6 @@ Last refreshed: 2026-11-24 21:00 UTC.
 | Stripe | 🆕 Software Engineer, Intern | Bucharest | Not disclosed | [View & apply](https://aigradjobs.com/jobs/stripe-software-engineer-intern-8130807/) |
 | Stripe | 🆕 Software Engineer, Intern (Summer) | Toronto | Not disclosed | [View & apply](https://aigradjobs.com/jobs/stripe-software-engineer-intern-summer-8130805/) |
 | Stripe | 🆕 Software Engineer, Intern (Summer) | San Francisco, Seattle, New York City | Not disclosed | [View & apply](https://aigradjobs.com/jobs/stripe-software-engineer-intern-summer-8128745/) |
-| Stripe | 🆕 Software Engineer, New Grad | San Francisco, Seattle, New York | Not disclosed | [View & apply](https://aigradjobs.com/jobs/stripe-software-engineer-new-grad-8128744/) |
-| Stripe | 🆕 Software Engineer, Intern (Summer or Winter) | Dublin | Not disclosed | [View & apply](https://aigradjobs.com/jobs/stripe-software-engineer-intern-summer-or-winter-8097801/) |
-| Stripe | 🆕 Software Engineer, Intern | Bengaluru | Not disclosed | [View & apply](https://aigradjobs.com/jobs/stripe-software-engineer-intern-8031833/) |
-| Gleanwork | 🆕 Software Engineer, Developer Productivity | Mountain View, CA | $140,000 - $220,000 | [View & apply](https://aigradjobs.com/jobs/gleanwork-software-engineer-developer-productivity-4614706005/) |
-| Gleanwork | 🆕 Quality Assurance Engineer | Bangalore, India | Not disclosed | [View & apply](https://aigradjobs.com/jobs/gleanwork-quality-assurance-engineer-4012824005/) |
-| Figma | 🆕 Data Engineer Intern (2027) | San Francisco, CA • New York, NY | Not disclosed | [View & apply](https://aigradjobs.com/jobs/figma-data-engineer-intern-2027-6178851004/) |
-| Databricks | 🆕 Associate Forward Deployed Engineer | Mountain View, California | Not disclosed | [View & apply](https://aigradjobs.com/jobs/databricks-associate-forward-deployed-engineer-8910846002/) |
-| Databricks | 🆕 Solutions Engineer | Chicago, Illinois | Not disclosed | [View & apply](https://aigradjobs.com/jobs/databricks-solutions-engineer-8886944002/) |
-| Databricks | 🆕 Scale Solution Engineer | Heredia, Costa Rica | Not disclosed | [View & apply](https://aigradjobs.com/jobs/databricks-scale-solution-engineer-8779018002/) |
-| Databricks | 🆕 Software Engineer - Backend | Amsterdam, Netherlands | Not disclosed | [View & apply](https://aigradjobs.com/jobs/databricks-software-engineer-backend-8029666002/) |
 
 ## About
 
