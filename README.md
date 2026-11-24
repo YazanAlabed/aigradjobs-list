@@ -3,7 +3,7 @@
 **Free, updated regularly from direct company career feeds.**
 
 **263 active listings · 263 first seen in the past 24h · 22 remote listings**
-Last refreshed: 2026-11-24 21:39 UTC.
+Last refreshed: 2026-11-24 21:59 UTC.
 
 [Browse all jobs](https://aigradjobs.com/) · [AI internships](https://aigradjobs.com/internships/) · [Remote AI jobs](https://aigradjobs.com/remote/) · [Hiring companies](https://aigradjobs.com/companies/) · [Free interview prep and portfolio ideas](https://aigradjobs.com/) · [Join free job alerts](https://aigradjobs.com/#job-alerts)
 
@@ -21,14 +21,14 @@ Last refreshed: 2026-11-24 21:39 UTC.
 | Mai | 🆕 Machine Learning Engineer | Mountain View | $160K – $225K | [View & apply](https://aigradjobs.com/jobs/mai-machine-learning-engineer-3961159f-0c8/) |
 | Kos.Ai | 🆕 Software Engineer Intern | San Francisco | Not disclosed | [View & apply](https://aigradjobs.com/jobs/kos-ai-software-engineer-intern-efab6ffb-965/) |
 | Fellowai | 🆕 Software Engineer - New Grad (2026-2027) | Ottawa · Remote | Not disclosed | [View & apply](https://aigradjobs.com/jobs/fellowai-software-engineer-new-grad-2026-2027-f932dda0-8ad/) |
-| Endeavorai | 🆕 Forward Deployed Engineer, Early Career | Chicago | $120K – $140K • Offers Equity • 5% match on 401(k) | [View & apply](https://aigradjobs.com/jobs/endeavorai-forward-deployed-engineer-early-career-e397ddef-210/) |
+| Endeavorai | 🆕 Forward Deployed Engineer, Early Career | Chicago | $120K – $140K | [View & apply](https://aigradjobs.com/jobs/endeavorai-forward-deployed-engineer-early-career-e397ddef-210/) |
 | Cosmic-Robotics | 🆕 Forward Deployed Engineer | Cosmic HQ | Not disclosed | [View & apply](https://aigradjobs.com/jobs/cosmic-robotics-forward-deployed-engineer-c7112880-fa0/) |
 | Bild-Ai | 🆕 AI/SWE Intern | San Francisco | $3K – $10K per month | [View & apply](https://aigradjobs.com/jobs/bild-ai-ai-swe-intern-b333f0f7-0ca/) |
 | Conductorai | 🆕 Software Engineer Intern | New York City · Hybrid | Not disclosed | [View & apply](https://aigradjobs.com/jobs/conductorai-software-engineer-intern-d6a1b110-10a/) |
 | Deepgram | 🆕 People AI Operations Specialist | USA - Remote | $110K – $150K | [View & apply](https://aigradjobs.com/jobs/deepgram-people-ai-operations-specialist-dbf72159-6a8/) |
-| Deepgram | 🆕 Forward-Deployed Engineer (FDE), Strategic Accounts | San Francisco, CA | $155K – $193K | [View & apply](https://aigradjobs.com/jobs/deepgram-forward-deployed-engineer-fde-strategic-accounts-4bfadd29-fa5/) |
+| Deepgram | 🆕 Forward-Deployed Engineer (FDE), Strategic Accounts | San Francisco, CA | $155K – $193K • Offers Equity • Offers Bonus • 10% Annual Bonus | [View & apply](https://aigradjobs.com/jobs/deepgram-forward-deployed-engineer-fde-strategic-accounts-4bfadd29-fa5/) |
 | Cursor | 🆕 GTM Applications Engineer | San Francisco, CA | $240,000 - $325,000 USD | [View & apply](https://aigradjobs.com/jobs/cursor-gtm-applications-engineer-cddb7c29-39e/) |
-| Crusoe | 🆕 AI Applied Research PhD Intern, Summer 2027 | San Francisco, CA - US | Not disclosed | [View & apply](https://aigradjobs.com/jobs/crusoe-ai-applied-research-phd-intern-summer-2027-8d1d162e-7be/) |
+| Crusoe | 🆕 AI Applied Research PhD Intern, Summer 2027 | San Francisco, CA - US | $80/hour | [View & apply](https://aigradjobs.com/jobs/crusoe-ai-applied-research-phd-intern-summer-2027-8d1d162e-7be/) |
 | Crusoe | 🆕 Mechanical Engineer I | Arvada, CO - US | up to $95,000 -$106,000 + Bonus | [View & apply](https://aigradjobs.com/jobs/crusoe-mechanical-engineer-i-11603bfb-6d3/) |
 | Kataai | 🆕 Technical Support Engineer (Freelance) | South Jakarta, DKI Jakarta, Indonesia · Remote | Not disclosed | [View & apply](https://aigradjobs.com/jobs/kataai-technical-support-engineer-freelance-744000119308/) |
 | Lynxanalytics | 🆕 AI Engineer (India) | Pune, Maharashtra, India | Not disclosed | [View & apply](https://aigradjobs.com/jobs/lynxanalytics-ai-engineer-india-8647303002/) |
@@ -63,7 +63,7 @@ Last refreshed: 2026-11-24 21:39 UTC.
 | Haastautonomous | 🆕 Fall/Winter Engineering Co-op | Oregon | Not disclosed | [View & apply](https://aigradjobs.com/jobs/haastautonomous-fall-winter-engineering-co-op-be09930d-89a/) |
 | Haastautonomous | 🆕 Spring/Summer Engineering Co-op | USA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/haastautonomous-spring-summer-engineering-co-op-1e75b376-327/) |
 | Gradientrobotics | 🆕 Systems Software Engineer | San Francisco | Not disclosed | [View & apply](https://aigradjobs.com/jobs/gradientrobotics-systems-software-engineer-7c995dbf-543/) |
-| Gradientrobotics | 🆕 Electrical Engineer | San Francisco | $130K – $170K • Offers Equity | [View & apply](https://aigradjobs.com/jobs/gradientrobotics-electrical-engineer-543e35d0-bca/) |
+| Gradientrobotics | 🆕 Electrical Engineer | San Francisco | $130K – $170K | [View & apply](https://aigradjobs.com/jobs/gradientrobotics-electrical-engineer-543e35d0-bca/) |
 | Genesis-Molecular-Ai | 🆕 Scientist – Immunology and Inflammation | San Diego, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/genesis-molecular-ai-scientist-immunology-and-inflammation-90e8c915-5f1/) |
 | Satori-Analytics-1 | 🆕 Junior AI Engineer | Athens, Attica, Greece | Not disclosed | [View & apply](https://aigradjobs.com/jobs/satori-analytics-1-junior-ai-engineer-6677BE6340/) |
 | Digitals | 🆕 Hiring Generative AI Engineer - Freshers 2026/27 (Computer Science or AI Only) | Hyderabad, Telangana, India | Not disclosed | [View & apply](https://aigradjobs.com/jobs/digitals-hiring-generative-ai-engineer-freshers-2026-27-computer-scie-F81B5F03A4/) |
