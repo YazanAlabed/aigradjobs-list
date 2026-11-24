@@ -2,8 +2,8 @@
 
 **Free, updated regularly from direct company career feeds.**
 
-**116 active listings · 116 first seen in the past 24h · 8 remote listings**
-Last refreshed: 2026-11-24 18:19 UTC.
+**128 active listings · 128 first seen in the past 24h · 10 remote listings**
+Last refreshed: 2026-11-24 18:27 UTC.
 
 [Browse all jobs](https://aigradjobs.com/) · [AI internships](https://aigradjobs.com/internships/) · [Remote AI jobs](https://aigradjobs.com/remote/) · [Hiring companies](https://aigradjobs.com/companies/) · [Free interview prep and portfolio ideas](https://aigradjobs.com/) · [Join free job alerts](https://aigradjobs.com/#job-alerts)
 
@@ -11,12 +11,24 @@ Last refreshed: 2026-11-24 18:19 UTC.
 
 | Company | Role | Location | Posted pay | Details & free prep |
 | :--- | :--- | :--- | :--- | :--- |
+| Adobe | 🆕 2027 University Graduate - Data Scientist | San Jose, California, US | $90,000 - $164,250 annually | [View & apply](https://aigradjobs.com/jobs/adobe-2027-university-graduate-data-scientist-9a6209affd21/) |
+| Latitude | 🆕 Embedded Software Engineer II - High Level OS | Pittsburgh, PA, Palo Alto, CA, Detroit, MI | $150,320 - $225,480 USD | [View & apply](https://aigradjobs.com/jobs/latitude-embedded-software-engineer-ii-high-level-os-8114552/) |
+| Indiciumai | 🆕 Associate Data Engineer | Lisbon | Not disclosed | [View & apply](https://aigradjobs.com/jobs/indiciumai-associate-data-engineer-4806290101/) |
+| Nimblerobotics | 🆕 Software Engineer, Nimble Brain | San Francisco, CA | $150,000 - $210,000/year | [View & apply](https://aigradjobs.com/jobs/nimblerobotics-software-engineer-nimble-brain-4472953009/) |
+| Nimblerobotics | 🆕 Software Engineer II, Cloud Logistics | San Francisco, CA | $140,000 and $160,000/year | [View & apply](https://aigradjobs.com/jobs/nimblerobotics-software-engineer-ii-cloud-logistics-4330406009/) |
+| Nimblerobotics | 🆕 Robotics Field Engineer | Haslet, TX | $100,000 - $130,000 a year | [View & apply](https://aigradjobs.com/jobs/nimblerobotics-robotics-field-engineer-4204567009/) |
+| Cloudlinux-1 | 🆕 Graduate Engineer (remote work) | Poland · Remote | Not disclosed | [View & apply](https://aigradjobs.com/jobs/cloudlinux-1-graduate-engineer-remote-work-C79D418683/) |
 | Mindrobotics | 🆕 Software Engineer, Data Platform | Palo Alto | Not disclosed | [View & apply](https://aigradjobs.com/jobs/mindrobotics-software-engineer-data-platform-375e5c16-b4a/) |
 | Mindrobotics | 🆕 Software Engineer, Data Infrastructure | Palo Alto | Not disclosed | [View & apply](https://aigradjobs.com/jobs/mindrobotics-software-engineer-data-infrastructure-105d9f55-991/) |
 | Mindrobotics | 🆕 Software Engineer, Edge &#38; Field Systems | Palo Alto | Not disclosed | [View & apply](https://aigradjobs.com/jobs/mindrobotics-software-engineer-edge-field-systems-00d89fc0-cb5/) |
 | Lgairesearch | 🆕 Research Internship - Physical AI | Gangseo-gu, Seoul, South Korea | Not disclosed | [View & apply](https://aigradjobs.com/jobs/lgairesearch-research-internship-physical-ai-4725958005/) |
+| Jerry.Ai | 🆕 Data Scientist | New York, New York · Remote | $140K – $160K | [View & apply](https://aigradjobs.com/jobs/jerry-ai-data-scientist-0081a0a9-e34/) |
 | Rhoda-Ai | 🆕 Software Engineer Intern, Rhoda Platform | Sunnyvale, CA | $40 – $50 per hour | [View & apply](https://aigradjobs.com/jobs/rhoda-ai-software-engineer-intern-rhoda-platform-9a57c8ff-dd2/) |
 | Rhoda-Ai | 🆕 Software Engineer, Rhoda Platform | Sunnyvale, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/rhoda-ai-software-engineer-rhoda-platform-36a82229-5ca/) |
+| Skildai-Careers | 🆕 Hardware Validation - Electrical Engineer | San Mateo, California | Not disclosed | [View & apply](https://aigradjobs.com/jobs/skildai-careers-hardware-validation-electrical-engineer-5233633008/) |
+| Pathrobotics | 🆕 Software Engineer, C++ | Columbus, Ohio | Not disclosed | [View & apply](https://aigradjobs.com/jobs/pathrobotics-software-engineer-c-8926017002/) |
+| Pathrobotics | 🆕 Software Engineer, Fleet Platform | Columbus, Ohio | Not disclosed | [View & apply](https://aigradjobs.com/jobs/pathrobotics-software-engineer-fleet-platform-8870735002/) |
+| Pathrobotics | 🆕 Data Engineer | Columbus, Ohio | Not disclosed | [View & apply](https://aigradjobs.com/jobs/pathrobotics-data-engineer-8868497002/) |
 | 1X | 🆕 Robotics Deployment Engineer | San Carlos, CA | $118K – $151K • Offers Equity | [View & apply](https://aigradjobs.com/jobs/1x-robotics-deployment-engineer-93ffa012-5a8/) |
 | 1X | 🆕 Firmware Engineer - Testing | San Carlos, CA | $150K – $190K | [View & apply](https://aigradjobs.com/jobs/1x-firmware-engineer-testing-4cb3ef10-875/) |
 | 1Password | 🆕 Developer, Device Trust Reliability | Remote (United States &#124; Canada) · Remote | $123,000 USD and $172,000 USD | [View & apply](https://aigradjobs.com/jobs/1password-developer-device-trust-reliability-443f9ef6-13a/) |
