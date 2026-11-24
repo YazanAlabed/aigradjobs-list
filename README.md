@@ -2,8 +2,8 @@
 
 **Free, updated daily from direct company career feeds.**
 
-**24 active listings · 24 first seen in the past 24h · 0 remote listings**
-Last refreshed: 2026-11-24 00:25 UTC.
+**45 active listings · 45 first seen in the past 24h · 0 remote listings**
+Last refreshed: 2026-11-24 00:40 UTC.
 
 [Browse all jobs](https://aigradjobs.com/) · [Remote AI jobs](https://aigradjobs.com/remote/) · [Free interview prep and portfolio ideas](https://aigradjobs.com/) · [Join free job alerts](https://aigradjobs.com/#job-alerts)
 
@@ -11,6 +11,27 @@ Last refreshed: 2026-11-24 00:25 UTC.
 
 | Company | Role | Location | Posted pay | Details & free prep |
 | :--- | :--- | :--- | :--- | :--- |
+| Brex | 🆕 Data Scientist II, Applied ML | San Francisco, California, United States | $152,000 - $190,000 | [Prep & apply](https://aigradjobs.com/jobs/brex-data-scientist-ii-applied-ml-8783482002/) |
+| Brex | 🆕 AI Engineer, Workbench | San Francisco, California, United States | $216,000 - $240,000 USD | [Prep & apply](https://aigradjobs.com/jobs/brex-ai-engineer-workbench-8606845002/) |
+| Brex | 🆕 AI Engineer, Ecosystem | Seattle, Washington, United States | $171,000 - $240,000 USD | [Prep & apply](https://aigradjobs.com/jobs/brex-ai-engineer-ecosystem-8606885002/) |
+| Coinbase | 🆕 Machine Learning Engineer Intern | Hybrid - San Francisco, CA | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/coinbase-machine-learning-engineer-intern-8175441/) |
+| Figma | 🆕 PhD Intern, Data Science (2027) | San Francisco, CA • New York, NY | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/figma-phd-intern-data-science-2027-6200626004/) |
+| Figma | 🆕 PhD Intern, AI Applied Scientist (2027) | San Francisco, CA • New York, NY | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/figma-phd-intern-ai-applied-scientist-2027-6207801004/) |
+| Figma | 🆕 Data Scientist, Marketing | San Francisco, CA • New York, NY • United States | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/figma-data-scientist-marketing-6265726004/) |
+| Figma | 🆕 AI Engineer, Internal Tools | San Francisco, CA • New York, NY • United States | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/figma-ai-engineer-internal-tools-6233043004/) |
+| Stripe | 🆕 PhD Machine Learning Engineer, Intern | Toronto | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/stripe-phd-machine-learning-engineer-intern-8328664/) |
+| Stripe | 🆕 PhD Data Scientist, Intern | New York, Seattle, South San Francisco HQ | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/stripe-phd-data-scientist-intern-8194283/) |
+| Stripe | 🆕 PhD Data Scientist, Intern | Toronto | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/stripe-phd-data-scientist-intern-8194285/) |
+| Stripe | 🆕 Master's Machine Learning Engineer, Intern | Toronto | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/stripe-master-s-machine-learning-engineer-intern-8333122/) |
+| Stripe | 🆕 Master's Machine Learning Engineer, Intern | San Francisco, New York City, Seattle | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/stripe-master-s-machine-learning-engineer-intern-8333074/) |
+| Stripe | 🆕 Machine Learning Engineer, Transaction Risk | Seattle, New York City | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/stripe-machine-learning-engineer-transaction-risk-8187574/) |
+| Stripe | 🆕 Machine Learning Engineer, Radar | Seattle | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/stripe-machine-learning-engineer-radar-8243617/) |
+| Stripe | 🆕 Machine Learning Engineer, Link | New York City | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/stripe-machine-learning-engineer-link-8197886/) |
+| Stripe | 🆕 Machine Learning Engineer, Growth Platform | San Francisco | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/stripe-machine-learning-engineer-growth-platform-8224915/) |
+| Stripe | 🆕 Data Scientist | N/A | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/stripe-data-scientist-5601879/) |
+| Stripe | 🆕 Data Scientist | Singapore | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/stripe-data-scientist-8043052/) |
+| Stripe | 🆕 Data Scientist | Toronto | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/stripe-data-scientist-5895430/) |
+| Stripe | 🆕 AI Engineer | Chicago | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/stripe-ai-engineer-8144196/) |
 | Databricks | 🆕 PhD GenAI Research Scientist Intern | San Francisco, California | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/databricks-phd-genai-research-scientist-intern-7011263002/) |
 | Databricks | 🆕 Data Science Intern (2027 Start) | Mountain View, California; San Francisco, California | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/databricks-data-science-intern-2027-start-6866538002/) |
 | Databricks | 🆕 Applied AI Engineer | Belgrade, Serbia | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/databricks-applied-ai-engineer-8091041002/) |
