@@ -3,7 +3,7 @@
 **Free, updated regularly from direct company career feeds.**
 
 **116 active listings · 116 first seen in the past 24h · 8 remote listings**
-Last refreshed: 2026-11-24 14:47 UTC.
+Last refreshed: 2026-11-24 17:01 UTC.
 
 [Browse all jobs](https://aigradjobs.com/) · [AI internships](https://aigradjobs.com/internships/) · [Remote AI jobs](https://aigradjobs.com/remote/) · [Hiring companies](https://aigradjobs.com/companies/) · [Free interview prep and portfolio ideas](https://aigradjobs.com/) · [Join free job alerts](https://aigradjobs.com/#job-alerts)
 
@@ -120,7 +120,7 @@ Last refreshed: 2026-11-24 14:47 UTC.
 | Coinbase | 🆕 Software Engineer Intern | Hybrid - San Francisco, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/coinbase-software-engineer-intern-8168315/) |
 | Coinbase | 🆕 Software Engineer, Blockchain Platform Nodes | Remote - USA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/coinbase-software-engineer-blockchain-platform-nodes-8105437/) |
 | Anthropic | 🆕 Research Associate, Biology | San Francisco, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/anthropic-research-associate-biology-5285248008/) |
-| Openai | 🆕 Software Engineer, Applied Emerging Talent (2027) | San Francisco · Hybrid | $180K | [View & apply](https://aigradjobs.com/jobs/openai-software-engineer-applied-emerging-talent-2027-55150071-fce/) |
+| Openai | 🆕 Software Engineer, Applied Emerging Talent (2027) | San Francisco · Hybrid | $180K • Offers Equity | [View & apply](https://aigradjobs.com/jobs/openai-software-engineer-applied-emerging-talent-2027-55150071-fce/) |
 | Openai | 🆕 Performance Modeling Engineer &#126;2 | San Francisco · Hybrid | $347K – $445K | [View & apply](https://aigradjobs.com/jobs/openai-performance-modeling-engineer-2-4f6be73e-9a1/) |
 | Modal | 🆕 Forward Deployed Engineer - ML (London) | London | Not disclosed | [View & apply](https://aigradjobs.com/jobs/modal-forward-deployed-engineer-ml-london-053ff040-770/) |
 | Stripe | 🆕 Master's Machine Learning Engineer, Intern | Toronto | Not disclosed | [View & apply](https://aigradjobs.com/jobs/stripe-master-s-machine-learning-engineer-intern-8333122/) |
