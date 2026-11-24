@@ -2,15 +2,39 @@
 
 **Free, updated daily from direct company career feeds.**
 
-**45 active listings · 45 first seen in the past 24h · 0 remote listings**
-Last refreshed: 2026-11-24 00:40 UTC.
+**69 active listings · 69 first seen in the past 24h · 1 remote listings**
+Last refreshed: 2026-11-24 01:17 UTC.
 
-[Browse all jobs](https://aigradjobs.com/) · [Remote AI jobs](https://aigradjobs.com/remote/) · [Free interview prep and portfolio ideas](https://aigradjobs.com/) · [Join free job alerts](https://aigradjobs.com/#job-alerts)
+[Browse all jobs](https://aigradjobs.com/) · [AI internships](https://aigradjobs.com/internships/) · [Remote AI jobs](https://aigradjobs.com/remote/) · [Hiring companies](https://aigradjobs.com/companies/) · [Free interview prep and portfolio ideas](https://aigradjobs.com/) · [Join free job alerts](https://aigradjobs.com/#job-alerts)
 
 🆕 = first discovered by our pipeline in the past 24 hours (not necessarily first posted by the employer). Salary is included only when disclosed. Check the original employer listing for final requirements.
 
 | Company | Role | Location | Posted pay | Details & free prep |
 | :--- | :--- | :--- | :--- | :--- |
+| Openai | 🆕 Applied AI Engineer - Tokyo | Tokyo, Japan | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/openai-applied-ai-engineer-tokyo-4762783e-61e/) |
+| Openai | 🆕 Data Scientist, Integrity | San Francisco | $265K – $380K | [Prep & apply](https://aigradjobs.com/jobs/openai-data-scientist-integrity-f6cada21-0f5/) |
+| Zoox | 🆕 Software Engineer - Learned Trajectory Machine Learning Engineer | Foster City, CA | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/zoox-software-engineer-learned-trajectory-machine-learning-engine-9176aa65-14e/) |
+| Zoox | 🆕 Machine Learning Engineer, 3D Simulation | Foster City, CA | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/zoox-machine-learning-engineer-3d-simulation-2d73563c-803/) |
+| Zoox | 🆕 Machine Learning Engineer - Vision Foundation Models | Foster City, CA | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/zoox-machine-learning-engineer-vision-foundation-models-06f146c2-25f/) |
+| Zoox | 🆕 Machine Learning Engineer - 3D Sensor Simulation | Foster City, CA | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/zoox-machine-learning-engineer-3d-sensor-simulation-2347453a-f11/) |
+| Zoox | 🆕 Data Scientist, Fleet Orchestration Algorithms | Foster City, CA | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/zoox-data-scientist-fleet-orchestration-algorithms-254559af-837/) |
+| Zoox | 🆕 Data Scientist Intern &#91;Summer 2027&#93; | Foster City, CA | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/zoox-data-scientist-intern-summer-2027-0f42ac76-382/) |
+| Zoox | 🆕 Data Scientist - Perception Verification and Validation | Boston, MA | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/zoox-data-scientist-perception-verification-and-validation-87877cf4-3ac/) |
+| Zoox | 🆕 Data Scientist - Behavior Evaluation | Foster City, CA | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/zoox-data-scientist-behavior-evaluation-acaafc9a-486/) |
+| Zoox | 🆕 Data Science Intern &#91;Summer 2027&#93; | Foster City, CA | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/zoox-data-science-intern-summer-2027-85c6aec7-8da/) |
+| Zoox | 🆕 Contract Student Worker - Data Scientist (20 hrs wk) | Foster City, CA | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/zoox-contract-student-worker-data-scientist-20-hrs-wk-c6d372ce-120/) |
+| Palantir | 🆕 Software Engineer, Internship - Sovereign AI Systems | New York, NY | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/palantir-software-engineer-internship-sovereign-ai-systems-cd64bcd4-50b/) |
+| Palantir | 🆕 Software Engineer, Internship - Sovereign AI Systems | London, United Kingdom | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/palantir-software-engineer-internship-sovereign-ai-systems-40840cef-bbd/) |
+| Palantir | 🆕 Forward Deployed AI Engineer | London, United Kingdom | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/palantir-forward-deployed-ai-engineer-ff1029bd-bb6/) |
+| Palantir | 🆕 Forward Deployed AI Engineer | New York, NY | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/palantir-forward-deployed-ai-engineer-636fc05c-d34/) |
+| Gleanwork | 🆕 Machine Learning Engineer, Search Quality | Mountain View, CA; San Francisco, CA | $180,000 - $300,000 annually | [Prep & apply](https://aigradjobs.com/jobs/gleanwork-machine-learning-engineer-search-quality-4006735005/) |
+| Gleanwork | 🆕 Machine Learning Engineer, Enterprise Brain | Mountain View, CA | $215,000 - $300,000 annually | [Prep & apply](https://aigradjobs.com/jobs/gleanwork-machine-learning-engineer-enterprise-brain-4744818005/) |
+| Gleanwork | 🆕 Machine Learning Engineer, Assistant Quality | San Francisco, CA | $180,000 - $300,000 annually | [Prep & apply](https://aigradjobs.com/jobs/gleanwork-machine-learning-engineer-assistant-quality-4711484005/) |
+| Gleanwork | 🆕 AI Engineer - Quality and Post-Training | San Francisco Bay Area | $200,000 - $280,000 annually | [Prep & apply](https://aigradjobs.com/jobs/gleanwork-ai-engineer-quality-and-post-training-4746915005/) |
+| Gleanwork | 🆕 AI Engineer - Data and Evals | San Francisco Bay Area | $200,000 - $280,000 annually | [Prep & apply](https://aigradjobs.com/jobs/gleanwork-ai-engineer-data-and-evals-4746908005/) |
+| Brex | 🆕 Data Scientist II, Applied ML | São Paulo, São Paulo, Brazil | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/brex-data-scientist-ii-applied-ml-8735070002/) |
+| Coinbase | 🆕 Machine Learning Engineer | Remote - India | ₹4,408,400 INR | [Prep & apply](https://aigradjobs.com/jobs/coinbase-machine-learning-engineer-7985187/) |
+| Stripe | 🆕 PhD Machine Learning Engineer, Intern | San Francisco, New York City, Seattle | Not disclosed | [Prep & apply](https://aigradjobs.com/jobs/stripe-phd-machine-learning-engineer-intern-8328662/) |
 | Brex | 🆕 Data Scientist II, Applied ML | San Francisco, California, United States | $152,000 - $190,000 | [Prep & apply](https://aigradjobs.com/jobs/brex-data-scientist-ii-applied-ml-8783482002/) |
 | Brex | 🆕 AI Engineer, Workbench | San Francisco, California, United States | $216,000 - $240,000 USD | [Prep & apply](https://aigradjobs.com/jobs/brex-ai-engineer-workbench-8606845002/) |
 | Brex | 🆕 AI Engineer, Ecosystem | Seattle, Washington, United States | $171,000 - $240,000 USD | [Prep & apply](https://aigradjobs.com/jobs/brex-ai-engineer-ecosystem-8606885002/) |
