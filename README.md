@@ -2,8 +2,8 @@
 
 **Free, updated regularly from direct company career feeds.**
 
-**300 active listings · 237 first seen in the past 24h · 22 remote listings**
-Last refreshed: 2026-11-25 04:24 UTC.
+**320 active listings · 248 first seen in the past 24h · 24 remote listings**
+Last refreshed: 2026-11-25 04:34 UTC.
 
 [Browse all jobs](https://aigradjobs.com/) · [AI internships](https://aigradjobs.com/internships/) · [Remote AI jobs](https://aigradjobs.com/remote/) · [Hiring companies](https://aigradjobs.com/companies/) · [Free interview prep and portfolio ideas](https://aigradjobs.com/) · [Join free job alerts](https://aigradjobs.com/#job-alerts)
 
@@ -11,6 +11,11 @@ Last refreshed: 2026-11-25 04:24 UTC.
 
 | Company | Role | Location | Posted pay | Details & free prep |
 | :--- | :--- | :--- | :--- | :--- |
+| Amazon | 🆕 Data Scientist I 6M Intern | IN, TN, Chennai | Not disclosed | [View & apply](https://aigradjobs.com/jobs/amazon-data-scientist-i-6m-intern-37cd55818026/) |
+| Lorikeet | 🆕 Software Engineer | Sydney, Australia HQ | Not disclosed | [View & apply](https://aigradjobs.com/jobs/lorikeet-software-engineer-4c8048f2-49a/) |
+| Linkup | 🆕 MTS Intern | New York · Hybrid | Not disclosed | [View & apply](https://aigradjobs.com/jobs/linkup-mts-intern-d6bc7da0-9b4/) |
+| Kayak | 🆕 Software Engineer, Ads (Backend) | Cambridge Office · Hybrid | $110,000 - 125,000 USD | [View & apply](https://aigradjobs.com/jobs/kayak-software-engineer-ads-backend-85165d45-de1/) |
+| Civisanalytics | 🆕 Software Engineer (Contract) | Chicago, IL; Washington, DC; Remote | $90,000 annually | [View & apply](https://aigradjobs.com/jobs/civisanalytics-software-engineer-contract-8021887/) |
 | Inferact | 🆕 Inference Engineering, Co-op | San Francisco | Not disclosed | [View & apply](https://aigradjobs.com/jobs/inferact-inference-engineering-co-op-2b6032f9-12a/) |
 | Harmonic | 🆕 Software Engineer, ML Systems | Palo Alto | Not disclosed | [View & apply](https://aigradjobs.com/jobs/harmonic-software-engineer-ml-systems-1905a929-842/) |
 | Brm.Ai | 🆕 Entry Level Software Engineer | San Francisco Office | Not disclosed | [View & apply](https://aigradjobs.com/jobs/brm-ai-entry-level-software-engineer-05cad7f7-219/) |
@@ -156,11 +161,6 @@ Last refreshed: 2026-11-25 04:24 UTC.
 | Mindrobotics | 🆕 Software Engineer, Data Platform | Palo Alto | Not disclosed | [View & apply](https://aigradjobs.com/jobs/mindrobotics-software-engineer-data-platform-375e5c16-b4a/) |
 | Mindrobotics | 🆕 Software Engineer, Data Infrastructure | Palo Alto | Not disclosed | [View & apply](https://aigradjobs.com/jobs/mindrobotics-software-engineer-data-infrastructure-105d9f55-991/) |
 | Mindrobotics | 🆕 Software Engineer, Edge &#38; Field Systems | Palo Alto | Not disclosed | [View & apply](https://aigradjobs.com/jobs/mindrobotics-software-engineer-edge-field-systems-00d89fc0-cb5/) |
-| Jerry.Ai | 🆕 Data Scientist | New York, New York · Remote | $140K – $160K | [View & apply](https://aigradjobs.com/jobs/jerry-ai-data-scientist-0081a0a9-e34/) |
-| Rhoda-Ai | 🆕 Software Engineer Intern, Rhoda Platform | Sunnyvale, CA | $40 – $50 per hour | [View & apply](https://aigradjobs.com/jobs/rhoda-ai-software-engineer-intern-rhoda-platform-9a57c8ff-dd2/) |
-| Rhoda-Ai | 🆕 Software Engineer, Rhoda Platform | Sunnyvale, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/rhoda-ai-software-engineer-rhoda-platform-36a82229-5ca/) |
-| Skildai-Careers | 🆕 Robotics Engineer, Teleoperation | San Mateo | Not disclosed | [View & apply](https://aigradjobs.com/jobs/skildai-careers-robotics-engineer-teleoperation-5453536008/) |
-| Skildai-Careers | 🆕 Hardware Validation - Electrical Engineer | San Mateo, California | Not disclosed | [View & apply](https://aigradjobs.com/jobs/skildai-careers-hardware-validation-electrical-engineer-5233633008/) |
 
 ## About
 
