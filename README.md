@@ -2,8 +2,8 @@
 
 **Free, updated regularly from direct company career feeds.**
 
-**307 active listings · 299 first seen in the past 24h · 27 remote listings**
-Last refreshed: 2026-11-25 00:36 UTC.
+**300 active listings · 237 first seen in the past 24h · 22 remote listings**
+Last refreshed: 2026-11-25 04:24 UTC.
 
 [Browse all jobs](https://aigradjobs.com/) · [AI internships](https://aigradjobs.com/internships/) · [Remote AI jobs](https://aigradjobs.com/remote/) · [Hiring companies](https://aigradjobs.com/companies/) · [Free interview prep and portfolio ideas](https://aigradjobs.com/) · [Join free job alerts](https://aigradjobs.com/#job-alerts)
 
@@ -11,6 +11,12 @@ Last refreshed: 2026-11-25 00:36 UTC.
 
 | Company | Role | Location | Posted pay | Details & free prep |
 | :--- | :--- | :--- | :--- | :--- |
+| Inferact | 🆕 Inference Engineering, Co-op | San Francisco | Not disclosed | [View & apply](https://aigradjobs.com/jobs/inferact-inference-engineering-co-op-2b6032f9-12a/) |
+| Harmonic | 🆕 Software Engineer, ML Systems | Palo Alto | Not disclosed | [View & apply](https://aigradjobs.com/jobs/harmonic-software-engineer-ml-systems-1905a929-842/) |
+| Brm.Ai | 🆕 Entry Level Software Engineer | San Francisco Office | Not disclosed | [View & apply](https://aigradjobs.com/jobs/brm-ai-entry-level-software-engineer-05cad7f7-219/) |
+| Servicenow | 🆕 Software Engineer, Agentic Systems - Moveworks | Mountain View, CALIFORNIA, United States | Not disclosed | [View & apply](https://aigradjobs.com/jobs/servicenow-software-engineer-agentic-systems-moveworks-744000162190/) |
+| Servicenow | 🆕 Forward Deployed Solution Engineer Intern (Masters Summer 2027) | Santa Clara, CALIFORNIA, United States | Not disclosed | [View & apply](https://aigradjobs.com/jobs/servicenow-forward-deployed-solution-engineer-intern-masters-summer-202-744000161936/) |
+| Coinbase | 🆕 Software Engineer Intern | Hybrid - Singapore | Not disclosed | [View & apply](https://aigradjobs.com/jobs/coinbase-software-engineer-intern-8175873/) |
 | Sap | 🆕 Junior Application Engineer (AI &#38; Backend) | Unspecified | Not disclosed | [View & apply](https://aigradjobs.com/jobs/sap-junior-application-engineer-ai-backend-f7a95faccf1f/) |
 | Sap | 🆕 Junior AI Developer - SAP Signavio Process.AI (limited contract) | Unspecified | Not disclosed | [View & apply](https://aigradjobs.com/jobs/sap-junior-ai-developer-sap-signavio-process-ai-limited-contract-cd0a9a7c5424/) |
 | Sap | 🆕 Junior Machine Learning Engineer | Unspecified | Not disclosed | [View & apply](https://aigradjobs.com/jobs/sap-junior-machine-learning-engineer-b9221a85005e/) |
@@ -18,6 +24,7 @@ Last refreshed: 2026-11-25 00:36 UTC.
 | Amazon | 🆕 Applied Scientist Intern - VLA and DATA, RIVR | CH, Zurich | Not disclosed | [View & apply](https://aigradjobs.com/jobs/amazon-applied-scientist-intern-vla-and-data-rivr-adb1daeb7a56/) |
 | Goventi | 🆕 Autonomous Driving Data Analysis Intern | Singapore | Not disclosed | [View & apply](https://aigradjobs.com/jobs/goventi-autonomous-driving-data-analysis-intern-f0fa137a-6c6/) |
 | Goventi | 🆕 Procurement &#38; Supply Chain Intern | Singapore | Not disclosed | [View & apply](https://aigradjobs.com/jobs/goventi-procurement-supply-chain-intern-ef48311b-f9a/) |
+| Goventi | 🆕 Map Annotation Intern | Singapore | Not disclosed | [View & apply](https://aigradjobs.com/jobs/goventi-map-annotation-intern-e24bcb45-217/) |
 | Goventi | 🆕 Autonomous Vehicle Test Engineer Intern | Singapore | Not disclosed | [View & apply](https://aigradjobs.com/jobs/goventi-autonomous-vehicle-test-engineer-intern-e1e4e26b-b72/) |
 | Goventi | 🆕 C++ Software Engineer Intern | Singapore | Not disclosed | [View & apply](https://aigradjobs.com/jobs/goventi-c-software-engineer-intern-dec35151-7be/) |
 | Goventi | 🆕 Autonomous Vehicle Control Engineer Intern | Singapore | Not disclosed | [View & apply](https://aigradjobs.com/jobs/goventi-autonomous-vehicle-control-engineer-intern-ce3643aa-fe3/) |
@@ -154,13 +161,6 @@ Last refreshed: 2026-11-25 00:36 UTC.
 | Rhoda-Ai | 🆕 Software Engineer, Rhoda Platform | Sunnyvale, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/rhoda-ai-software-engineer-rhoda-platform-36a82229-5ca/) |
 | Skildai-Careers | 🆕 Robotics Engineer, Teleoperation | San Mateo | Not disclosed | [View & apply](https://aigradjobs.com/jobs/skildai-careers-robotics-engineer-teleoperation-5453536008/) |
 | Skildai-Careers | 🆕 Hardware Validation - Electrical Engineer | San Mateo, California | Not disclosed | [View & apply](https://aigradjobs.com/jobs/skildai-careers-hardware-validation-electrical-engineer-5233633008/) |
-| Skildai-Careers | 🆕 Robotics Engineer, Deployment &#38; Testing - San Mateo | San Mateo | Not disclosed | [View & apply](https://aigradjobs.com/jobs/skildai-careers-robotics-engineer-deployment-testing-san-mateo-5162584008/) |
-| Pathrobotics | 🆕 Software Engineer, C++ | Columbus, Ohio | Not disclosed | [View & apply](https://aigradjobs.com/jobs/pathrobotics-software-engineer-c-8926017002/) |
-| Pathrobotics | 🆕 Software Engineer, Fleet Platform | Columbus, Ohio | Not disclosed | [View & apply](https://aigradjobs.com/jobs/pathrobotics-software-engineer-fleet-platform-8870735002/) |
-| Pathrobotics | 🆕 Data Engineer | Columbus, Ohio | Not disclosed | [View & apply](https://aigradjobs.com/jobs/pathrobotics-data-engineer-8868497002/) |
-| Pathrobotics | 🆕 Robotics Software Engineer, Motion Planning | Columbus, Ohio | Not disclosed | [View & apply](https://aigradjobs.com/jobs/pathrobotics-robotics-software-engineer-motion-planning-8627330002/) |
-| Cognite | 🆕 Data Scientist | Mexico City, Ciudad de México, Mexico; Monterrey, Nuevo León, Mexico; Tijuana, Baja California, Mexico | Not disclosed | [View & apply](https://aigradjobs.com/jobs/cognite-data-scientist-5032904101/) |
-| 1X | 🆕 Robotics Deployment Engineer | San Carlos, CA | $118K – $151K • Offers Equity | [View & apply](https://aigradjobs.com/jobs/1x-robotics-deployment-engineer-93ffa012-5a8/) |
 
 ## About
 
