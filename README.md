@@ -2,8 +2,8 @@
 
 **Free, updated regularly from direct company career feeds.**
 
-**263 active listings · 263 first seen in the past 24h · 22 remote listings**
-Last refreshed: 2026-11-24 22:14 UTC.
+**307 active listings · 299 first seen in the past 24h · 27 remote listings**
+Last refreshed: 2026-11-25 00:36 UTC.
 
 [Browse all jobs](https://aigradjobs.com/) · [AI internships](https://aigradjobs.com/internships/) · [Remote AI jobs](https://aigradjobs.com/remote/) · [Hiring companies](https://aigradjobs.com/companies/) · [Free interview prep and portfolio ideas](https://aigradjobs.com/) · [Join free job alerts](https://aigradjobs.com/#job-alerts)
 
@@ -11,6 +11,42 @@ Last refreshed: 2026-11-24 22:14 UTC.
 
 | Company | Role | Location | Posted pay | Details & free prep |
 | :--- | :--- | :--- | :--- | :--- |
+| Sap | 🆕 Junior Application Engineer (AI &#38; Backend) | Unspecified | Not disclosed | [View & apply](https://aigradjobs.com/jobs/sap-junior-application-engineer-ai-backend-f7a95faccf1f/) |
+| Sap | 🆕 Junior AI Developer - SAP Signavio Process.AI (limited contract) | Unspecified | Not disclosed | [View & apply](https://aigradjobs.com/jobs/sap-junior-ai-developer-sap-signavio-process-ai-limited-contract-cd0a9a7c5424/) |
+| Sap | 🆕 Junior Machine Learning Engineer | Unspecified | Not disclosed | [View & apply](https://aigradjobs.com/jobs/sap-junior-machine-learning-engineer-b9221a85005e/) |
+| Sap | 🆕 SAP Labs iXp Intern – Software Developer (AI &#38; Backend) | Unspecified | Not disclosed | [View & apply](https://aigradjobs.com/jobs/sap-sap-labs-ixp-intern-software-developer-ai-backend-0d43c8e42387/) |
+| Amazon | 🆕 Applied Scientist Intern - VLA and DATA, RIVR | CH, Zurich | Not disclosed | [View & apply](https://aigradjobs.com/jobs/amazon-applied-scientist-intern-vla-and-data-rivr-adb1daeb7a56/) |
+| Goventi | 🆕 Autonomous Driving Data Analysis Intern | Singapore | Not disclosed | [View & apply](https://aigradjobs.com/jobs/goventi-autonomous-driving-data-analysis-intern-f0fa137a-6c6/) |
+| Goventi | 🆕 Procurement &#38; Supply Chain Intern | Singapore | Not disclosed | [View & apply](https://aigradjobs.com/jobs/goventi-procurement-supply-chain-intern-ef48311b-f9a/) |
+| Goventi | 🆕 Autonomous Vehicle Test Engineer Intern | Singapore | Not disclosed | [View & apply](https://aigradjobs.com/jobs/goventi-autonomous-vehicle-test-engineer-intern-e1e4e26b-b72/) |
+| Goventi | 🆕 C++ Software Engineer Intern | Singapore | Not disclosed | [View & apply](https://aigradjobs.com/jobs/goventi-c-software-engineer-intern-dec35151-7be/) |
+| Goventi | 🆕 Autonomous Vehicle Control Engineer Intern | Singapore | Not disclosed | [View & apply](https://aigradjobs.com/jobs/goventi-autonomous-vehicle-control-engineer-intern-ce3643aa-fe3/) |
+| Goventi | 🆕 Full-Stack Software Engineer Intern | Singapore | Not disclosed | [View & apply](https://aigradjobs.com/jobs/goventi-full-stack-software-engineer-intern-9e776d34-6b2/) |
+| Goventi | 🆕 Localization and Mapping Research Scientist Intern | Singapore | Not disclosed | [View & apply](https://aigradjobs.com/jobs/goventi-localization-and-mapping-research-scientist-intern-9ac3a62a-827/) |
+| Goventi | 🆕 QA Engineer Intern | Singapore | Not disclosed | [View & apply](https://aigradjobs.com/jobs/goventi-qa-engineer-intern-9a871e5e-067/) |
+| Goventi | 🆕 Data Annotation Intern | Singapore | Not disclosed | [View & apply](https://aigradjobs.com/jobs/goventi-data-annotation-intern-86982898-750/) |
+| Goventi | 🆕 Autonomous Vehicle Integration &#38; Validation Intern (Software Tools) | Singapore | Not disclosed | [View & apply](https://aigradjobs.com/jobs/goventi-autonomous-vehicle-integration-validation-intern-software-to-60954aca-104/) |
+| Goventi | 🆕 Autonomous Vehicle Planning Engineer Intern | Singapore | Not disclosed | [View & apply](https://aigradjobs.com/jobs/goventi-autonomous-vehicle-planning-engineer-intern-5f296c0a-655/) |
+| Goventi | 🆕 Autonomous Vehicle Production Engineering Intern | Singapore | Not disclosed | [View & apply](https://aigradjobs.com/jobs/goventi-autonomous-vehicle-production-engineering-intern-5ee03a9c-7ab/) |
+| Goventi | 🆕 C++ Software Engineer Intern (Control) | Singapore | Not disclosed | [View & apply](https://aigradjobs.com/jobs/goventi-c-software-engineer-intern-control-52c162ad-20c/) |
+| Goventi | 🆕 Autonomous Vehicle Hardware Intern | Singapore | Not disclosed | [View & apply](https://aigradjobs.com/jobs/goventi-autonomous-vehicle-hardware-intern-4fe106d0-b98/) |
+| Goventi | 🆕 Map Simulation Intern | Singapore | Not disclosed | [View & apply](https://aigradjobs.com/jobs/goventi-map-simulation-intern-31611850-5ba/) |
+| Goventi | 🆕 Autonomous Vehicle Simulation Engineer Intern | Singapore | Not disclosed | [View & apply](https://aigradjobs.com/jobs/goventi-autonomous-vehicle-simulation-engineer-intern-03956e2b-b6b/) |
+| Fundamental | 🆕 Forward Deployed - Data Scientist | US (remote) | Not disclosed | [View & apply](https://aigradjobs.com/jobs/fundamental-forward-deployed-data-scientist-cc862e89-7d1/) |
+| Thinking-Machines-Data-Science-Inc | 🆕 PH - GenAI Engineer | Taguig, Metro Manila, Philippines | Not disclosed | [View & apply](https://aigradjobs.com/jobs/thinking-machines-data-science-inc-ph-genai-engineer-89FB052B3E/) |
+| Samsungresearchamericainternship | 🆕 2027 Spring Intern, Robotics Lab | 665 Clyde Avenue, Mountain View, CA, USA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/samsungresearchamericainternship-2027-spring-intern-robotics-lab-8927812002/) |
+| Samsungresearchamericainternship | 🆕 2027 Summer Intern, Generative AI based Imaging and Video R&#38;D | 6105 Tennyson Pkwy, Suite 300, Plano TX 75024 | Not disclosed | [View & apply](https://aigradjobs.com/jobs/samsungresearchamericainternship-2027-summer-intern-generative-ai-based-imaging-and-video-r-d-8927216002/) |
+| Ruggedrobotics | 🆕 Robotic Software Intern/Co-op (Spring or Summer 2027) | Houston, TX | Not disclosed | [View & apply](https://aigradjobs.com/jobs/ruggedrobotics-robotic-software-intern-co-op-spring-or-summer-2027-4730908005/) |
+| Ruggedrobotics | 🆕 Mechanical Engineering Intern/Co-op (Spring or Summer 2027) | Houston, TX | Not disclosed | [View & apply](https://aigradjobs.com/jobs/ruggedrobotics-mechanical-engineering-intern-co-op-spring-or-summer-2027-4730900005/) |
+| Ruggedrobotics | 🆕 Electrical Engineering Intern/Co-op (Spring or Summer '27) | Houston, TX | Not disclosed | [View & apply](https://aigradjobs.com/jobs/ruggedrobotics-electrical-engineering-intern-co-op-spring-or-summer-27-4724214005/) |
+| Deepfinresearch | 🆕 Graduate Quantitative Developer | London; New York | Not disclosed | [View & apply](https://aigradjobs.com/jobs/deepfinresearch-graduate-quantitative-developer-4737473101/) |
+| Remedyrobotics | 🆕 Autonomy Engineer | San Francisco (hybrid) | Not disclosed | [View & apply](https://aigradjobs.com/jobs/remedyrobotics-autonomy-engineer-00e331b9-e35/) |
+| Tonicai | 🆕 Forward Deployed Engineer, Data De-Identification (Co-op) | Remote | Not disclosed | [View & apply](https://aigradjobs.com/jobs/tonicai-forward-deployed-engineer-data-de-identification-co-op-e632d472-fbd/) |
+| Innopeaktech | 🆕 Test Engineer-AI/LLM | Palo Alto, California, United States | $100,000-$200,000 + bonus + long term incentives benefits | [View & apply](https://aigradjobs.com/jobs/innopeaktech-test-engineer-ai-llm-8B07CD9802/) |
+| Getvocal-Ai | 🆕 AI Agent Engineer Intern (Internship) | Paris, Île-de-France, France | Not disclosed | [View & apply](https://aigradjobs.com/jobs/getvocal-ai-ai-agent-engineer-intern-internship-A3E5F84539/) |
+| Dashlabsai | 🆕 Intern - Analytics and Data Science | Mandaluyong City, NCR, Philippines · Remote | Not disclosed | [View & apply](https://aigradjobs.com/jobs/dashlabsai-intern-analytics-and-data-science-744000152789/) |
+| Dashlabsai | 🆕 Intern - Support Engineering | Kecamatan Setiabudi, Daerah Khusus Ibukota Jakarta, Indonesia · Remote | Not disclosed | [View & apply](https://aigradjobs.com/jobs/dashlabsai-intern-support-engineering-744000126246/) |
+| Samayaai | 🆕 ML Research Intern | Mountain View, California, United States | Not disclosed | [View & apply](https://aigradjobs.com/jobs/samayaai-ml-research-intern-4652765007/) |
 | Fiducial | 🆕 Internship - 3D Vision for Robotics | Delft · Hybrid | Not disclosed | [View & apply](https://aigradjobs.com/jobs/fiducial-internship-3d-vision-for-robotics-50c7e0fd-630/) |
 | Fiducial | 🆕 Internship - UAV Robotics/Mechatronics (Drone Prototyping, Integration &#38; Field Testing) | Delft · Hybrid | Not disclosed | [View & apply](https://aigradjobs.com/jobs/fiducial-internship-uav-robotics-mechatronics-drone-prototyping-integ-46daea96-33d/) |
 | Fortrobotics | 🆕 Embedded Test and Validation Engineer | Philadelphia, PA | $120,000–$150,000 | [View & apply](https://aigradjobs.com/jobs/fortrobotics-embedded-test-and-validation-engineer-4749921005/) |
@@ -32,6 +68,7 @@ Last refreshed: 2026-11-24 22:14 UTC.
 | Crusoe | 🆕 Mechanical Engineer I | Arvada, CO - US | up to $95,000 -$106,000 + Bonus | [View & apply](https://aigradjobs.com/jobs/crusoe-mechanical-engineer-i-11603bfb-6d3/) |
 | Kataai | 🆕 Technical Support Engineer (Freelance) | South Jakarta, DKI Jakarta, Indonesia · Remote | Not disclosed | [View & apply](https://aigradjobs.com/jobs/kataai-technical-support-engineer-freelance-744000119308/) |
 | Lynxanalytics | 🆕 AI Engineer (India) | Pune, Maharashtra, India | Not disclosed | [View & apply](https://aigradjobs.com/jobs/lynxanalytics-ai-engineer-india-8647303002/) |
+| Built-Robotics | 🆕 Robotics Engineer | Remote | $120,000 to $175,000 | [View & apply](https://aigradjobs.com/jobs/built-robotics-robotics-engineer-dbdb976d-99e/) |
 | Trener-Robotics | 🆕 Robotics Engineer/ Lab Technician (Intern) | San Jose (US-HQ) | Not disclosed | [View & apply](https://aigradjobs.com/jobs/trener-robotics-robotics-engineer-lab-technician-intern-49c2c8a6-701/) |
 | Viamrobotics | 🆕 Software Engineering Intern (Summer 2027) | New York, NY | Not disclosed | [View & apply](https://aigradjobs.com/jobs/viamrobotics-software-engineering-intern-summer-2027-6185046004/) |
 | Seoulrobotics | 🆕 Software Engineer- Autonomy | Pangyo, Korea | Not disclosed | [View & apply](https://aigradjobs.com/jobs/seoulrobotics-software-engineer-autonomy-5409079008/) |
@@ -115,6 +152,7 @@ Last refreshed: 2026-11-24 22:14 UTC.
 | Jerry.Ai | 🆕 Data Scientist | New York, New York · Remote | $140K – $160K | [View & apply](https://aigradjobs.com/jobs/jerry-ai-data-scientist-0081a0a9-e34/) |
 | Rhoda-Ai | 🆕 Software Engineer Intern, Rhoda Platform | Sunnyvale, CA | $40 – $50 per hour | [View & apply](https://aigradjobs.com/jobs/rhoda-ai-software-engineer-intern-rhoda-platform-9a57c8ff-dd2/) |
 | Rhoda-Ai | 🆕 Software Engineer, Rhoda Platform | Sunnyvale, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/rhoda-ai-software-engineer-rhoda-platform-36a82229-5ca/) |
+| Skildai-Careers | 🆕 Robotics Engineer, Teleoperation | San Mateo | Not disclosed | [View & apply](https://aigradjobs.com/jobs/skildai-careers-robotics-engineer-teleoperation-5453536008/) |
 | Skildai-Careers | 🆕 Hardware Validation - Electrical Engineer | San Mateo, California | Not disclosed | [View & apply](https://aigradjobs.com/jobs/skildai-careers-hardware-validation-electrical-engineer-5233633008/) |
 | Skildai-Careers | 🆕 Robotics Engineer, Deployment &#38; Testing - San Mateo | San Mateo | Not disclosed | [View & apply](https://aigradjobs.com/jobs/skildai-careers-robotics-engineer-deployment-testing-san-mateo-5162584008/) |
 | Pathrobotics | 🆕 Software Engineer, C++ | Columbus, Ohio | Not disclosed | [View & apply](https://aigradjobs.com/jobs/pathrobotics-software-engineer-c-8926017002/) |
@@ -123,44 +161,6 @@ Last refreshed: 2026-11-24 22:14 UTC.
 | Pathrobotics | 🆕 Robotics Software Engineer, Motion Planning | Columbus, Ohio | Not disclosed | [View & apply](https://aigradjobs.com/jobs/pathrobotics-robotics-software-engineer-motion-planning-8627330002/) |
 | Cognite | 🆕 Data Scientist | Mexico City, Ciudad de México, Mexico; Monterrey, Nuevo León, Mexico; Tijuana, Baja California, Mexico | Not disclosed | [View & apply](https://aigradjobs.com/jobs/cognite-data-scientist-5032904101/) |
 | 1X | 🆕 Robotics Deployment Engineer | San Carlos, CA | $118K – $151K • Offers Equity | [View & apply](https://aigradjobs.com/jobs/1x-robotics-deployment-engineer-93ffa012-5a8/) |
-| 1X | 🆕 Firmware Engineer - Testing | San Carlos, CA | $150K – $190K | [View & apply](https://aigradjobs.com/jobs/1x-firmware-engineer-testing-4cb3ef10-875/) |
-| 1Password | 🆕 Developer, Device Trust Reliability | Remote (United States &#124; Canada) · Remote | $123,000 USD and $172,000 USD | [View & apply](https://aigradjobs.com/jobs/1password-developer-device-trust-reliability-443f9ef6-13a/) |
-| Agilerobotsse | 🆕 Supplier Quality Engineer (all genders) | Munich, Bavaria, Germany | Not disclosed | [View & apply](https://aigradjobs.com/jobs/agilerobotsse-supplier-quality-engineer-all-genders-5042330101/) |
-| Agilerobotsse | 🆕 Full-Stack Developer Intern (m/f/d) Robotics Data Collection | Munich, Bavaria, Germany | Not disclosed | [View & apply](https://aigradjobs.com/jobs/agilerobotsse-full-stack-developer-intern-m-f-d-robotics-data-collection-4986680101/) |
-| Agilerobotsse | 🆕 Robotics Test Automation Engineer (m/f/d) | Munich, Bavaria, Germany | Not disclosed | [View & apply](https://aigradjobs.com/jobs/agilerobotsse-robotics-test-automation-engineer-m-f-d-4964785101/) |
-| Cloudfactory | 🆕 Forward Deployed Engineer | Berlin, Berlin, Germany | Not disclosed | [View & apply](https://aigradjobs.com/jobs/cloudfactory-forward-deployed-engineer-F775A14D4B/) |
-| Neuralink | 🆕 Software Engineer Intern, Robotics | Austin, Texas, United States; South San Francisco, California, United States | Not disclosed | [View & apply](https://aigradjobs.com/jobs/neuralink-software-engineer-intern-robotics-5469305003/) |
-| Agilityrobotics | 🆕 Mechanical Engineer II | Hybrid- Fremont, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/agilityrobotics-mechanical-engineer-ii-6227252004/) |
-| Reliable-Robotics | 🆕 System Integration &#38; Test Intern (Summer 2027) | Mountain View, CA | $105K • 3k Housing Stipend For Qualified Applicants | [View & apply](https://aigradjobs.com/jobs/reliable-robotics-system-integration-test-intern-summer-2027-f4324206-46a/) |
-| Reliable-Robotics | 🆕 FPGA Design Engineer, Radar | Seattle, WA | $145K – $165K | [View & apply](https://aigradjobs.com/jobs/reliable-robotics-fpga-design-engineer-radar-ee57defe-9a6/) |
-| Reliable-Robotics | 🆕 Supplier Engineering Intern (Summer 2027) | Mountain View, CA | $105K | [View & apply](https://aigradjobs.com/jobs/reliable-robotics-supplier-engineering-intern-summer-2027-bac27e34-c84/) |
-| Reliable-Robotics | 🆕 Electrical Systems Integration Intern (Summer 2027) | Mountain View, CA | $105K | [View & apply](https://aigradjobs.com/jobs/reliable-robotics-electrical-systems-integration-intern-summer-2027-b5068379-a36/) |
-| Reliable-Robotics | 🆕 Flight Navigation Intern (Summer 2027) | Mountain View, CA | $128K | [View & apply](https://aigradjobs.com/jobs/reliable-robotics-flight-navigation-intern-summer-2027-abe9c754-155/) |
-| Reliable-Robotics | 🆕 Reliability Engineering Intern (Summer 2027) | Mountain View, CA | $105K | [View & apply](https://aigradjobs.com/jobs/reliable-robotics-reliability-engineering-intern-summer-2027-9e609f4f-cf1/) |
-| Reliable-Robotics | 🆕 Flight Control Law Intern (Summer 2027) | Mountain View, CA | $128K | [View & apply](https://aigradjobs.com/jobs/reliable-robotics-flight-control-law-intern-summer-2027-5f247482-543/) |
-| Reliable-Robotics | 🆕 Mechanical Engineering Intern (Summer 2027) | Mountain View, CA | $105K | [View & apply](https://aigradjobs.com/jobs/reliable-robotics-mechanical-engineering-intern-summer-2027-4aa17839-d94/) |
-| Reliable-Robotics | 🆕 Flight Guidance Intern (Summer 2027) | Mountain View, CA | $128K | [View & apply](https://aigradjobs.com/jobs/reliable-robotics-flight-guidance-intern-summer-2027-3df94176-256/) |
-| Reliable-Robotics | 🆕 FPGA Engineering Intern (Summer 2027) | Mountain View, CA | $128K | [View & apply](https://aigradjobs.com/jobs/reliable-robotics-fpga-engineering-intern-summer-2027-131987a0-ede/) |
-| Reliable-Robotics | 🆕 Manufacturing Engineering Intern (Summer 2027) | Mountain View, CA | $105K | [View & apply](https://aigradjobs.com/jobs/reliable-robotics-manufacturing-engineering-intern-summer-2027-1085bdf8-f02/) |
-| Reliable-Robotics | 🆕 Flight Simulation Engineering Intern (Summer 2027) | Mountain View, CA | $128K | [View & apply](https://aigradjobs.com/jobs/reliable-robotics-flight-simulation-engineering-intern-summer-2027-0cd44e07-169/) |
-| Reliable-Robotics | 🆕 Hardware Test Engineering Intern (Summer 2027) | Mountain View, CA | $105K | [View & apply](https://aigradjobs.com/jobs/reliable-robotics-hardware-test-engineering-intern-summer-2027-0af72d5a-87b/) |
-| Togetherai | 🆕 Sales Development Engineer | San Francisco | $90K-150K OTE + equity + benefits | [View & apply](https://aigradjobs.com/jobs/togetherai-sales-development-engineer-4967737007/) |
-| Towerresearchcapital | 🆕 Data Engineer | Hong Kong | Not disclosed | [View & apply](https://aigradjobs.com/jobs/towerresearchcapital-data-engineer-8194414/) |
-| Towerresearchcapital | 🆕 Intern | Gift City | Not disclosed | [View & apply](https://aigradjobs.com/jobs/towerresearchcapital-intern-8184771/) |
-| Towerresearchcapital | 🆕 Développeur de logiciels C++ nouvellement diplômé / New Grad C++ Software Developer | Montreal | Not disclosed | [View & apply](https://aigradjobs.com/jobs/towerresearchcapital-d-veloppeur-de-logiciels-c-nouvellement-dipl-m-new-grad-c-so-8126667/) |
-| Towerresearchcapital | 🆕 Machine Learning Engineer | Hong Kong, Singapore, Shanghai | Not disclosed | [View & apply](https://aigradjobs.com/jobs/towerresearchcapital-machine-learning-engineer-7714667/) |
-| Towerresearchcapital | 🆕 Quantitative Developer | Gurgaon | Not disclosed | [View & apply](https://aigradjobs.com/jobs/towerresearchcapital-quantitative-developer-7102180/) |
-| Partner-One-Capital | 🆕 Associate Automation Engineer | India · Remote | Not disclosed | [View & apply](https://aigradjobs.com/jobs/partner-one-capital-associate-automation-engineer-DB382852E3/) |
-| Partner-One-Capital | 🆕 Technical Support Engineer | Egypt · Remote | Not disclosed | [View & apply](https://aigradjobs.com/jobs/partner-one-capital-technical-support-engineer-4C173F30FF/) |
-| Field-Ai | 🆕 R&#38;D Technician, Robotics Hardware | Irvine, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/field-ai-r-d-technician-robotics-hardware-d53f4074-ed2/) |
-| Field-Ai | 🆕 Robotics QA/QC Engineer | Irvine, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/field-ai-robotics-qa-qc-engineer-9fe4ed83-5dc/) |
-| Field-Ai | 🆕 Electrical Engineer, Autonomous Vehicles (Federal) | Irvine, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/field-ai-electrical-engineer-autonomous-vehicles-federal-9ad21207-951/) |
-| Field-Ai | 🆕 Embedded Systems Engineer, Robotics Hardware | Irvine, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/field-ai-embedded-systems-engineer-robotics-hardware-7a0d12c7-957/) |
-| Field-Ai | 🆕 Embedded Systems Engineer, Autonomous Vehicles (Federal) | Irvine, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/field-ai-embedded-systems-engineer-autonomous-vehicles-federal-5aa0a3ef-b69/) |
-| Field-Ai | 🆕 Mechanical Engineer, Autonomous Vehicles (Federal) | Irvine, CA | Not disclosed | [View & apply](https://aigradjobs.com/jobs/field-ai-mechanical-engineer-autonomous-vehicles-federal-0e394f4f-f8f/) |
-| Figureai | 🆕 Integration &#38; Test - Mechanical Engineering Intern &#91;Winter 2027&#93; | San Jose, CA | $40.00 to $45.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-integration-test-mechanical-engineering-intern-winter-2027-4726631006/) |
-| Figureai | 🆕 Developer Productivity Intern &#91;Winter 2027&#93; | San Jose, CA | $40.00 to $45.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-developer-productivity-intern-winter-2027-4724521006/) |
-| Figureai | 🆕 Embedded Software Engineering Intern &#91;Winter 2027&#93; | San Jose, CA | $40.00 to $45.00 per hour | [View & apply](https://aigradjobs.com/jobs/figureai-embedded-software-engineering-intern-winter-2027-4722086006/) |
 
 ## About
 
